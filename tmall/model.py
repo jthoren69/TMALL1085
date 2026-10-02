@@ -49,10 +49,36 @@ def read_json(path):
         return json.load(f)
 
 
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+class VersionError(Exception):
+    """Fel som beror på indata (okänd version eller träd), inte på ett programfel."""
+
+
+def available_versions():
+    d = os.path.join(REPO_ROOT, "versions")
+    if not os.path.isdir(d):
+        return []
+    return sorted(x for x in os.listdir(d) if os.path.isfile(os.path.join(d, x, "meta.json")))
+
+
+def resolve_version_path(path: str) -> str:
+    """Tar emot 'versions/13.0', '13.0' eller en annan mapp och ger mappen med meta.json."""
+    p = path.strip().strip('"\'').rstrip("/\\")
+    for cand in (p, os.path.join(REPO_ROOT, p), os.path.join(REPO_ROOT, "versions", p)):
+        if os.path.isfile(os.path.join(cand, "meta.json")):
+            return cand
+    raise VersionError("Hittar ingen version '%s'. Tillgängliga versioner: %s. "
+                       "Skriv till exempel 13.0 eller versions/13.0."
+                       % (path, ", ".join(available_versions()) or "(inga)"))
+
+
 class Version:
     """En inläst version."""
 
     def __init__(self, path: str):
+        path = resolve_version_path(path)
         self.path = path
         self.meta = read_json(os.path.join(path, "meta.json"))
         self.label = self.meta.get("version", os.path.basename(path.rstrip("/\\")))
@@ -81,8 +107,8 @@ class Version:
     # ---- träd ------------------------------------------------------------
     def tree(self, name="dokument"):
         if name not in self.trees:
-            raise KeyError("Trädet '%s' finns inte i version %s (finns: %s)"
-                           % (name, self.label, ", ".join(sorted(self.trees))))
+            raise VersionError("Trädet '%s' finns inte i version %s. Tillgängliga träd: %s."
+                               % (name, self.label, ", ".join(sorted(self.trees))))
         return self.trees[name]
 
     def children(self, name="dokument"):

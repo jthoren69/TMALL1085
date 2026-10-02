@@ -16,7 +16,7 @@ import sys
 from .build import build_version
 from .diff import compare, compare3
 from .extract import extract
-from .model import Version
+from .model import Version, VersionError
 from .report import write_all, write_markdown3
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -147,4 +147,7 @@ def main(argv=None):
     k.set_defaults(f=cmd_validate)
 
     a = p.parse_args(argv)
-    a.f(a)
+    try:
+        a.f(a)
+    except VersionError as e:
+        sys.exit("Fel: %s" % e)
