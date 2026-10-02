@@ -178,6 +178,16 @@ class Pipeline(unittest.TestCase):
         self.assertGreater(s["antal"]["struktur"], 100)
         self.assertEqual({c["typ"] for c in ch} - {"Rubrik flyttad", "Rubrik omordnad"}, set())
 
+    def test_version_name_is_resolved(self):
+        from tmall.model import VersionError
+        self.assertEqual(Version("13.0").label, "13.0")
+        self.assertEqual(Version("versions/13.0/").label, "13.0")
+        with self.assertRaises(VersionError) as cm:
+            Version("99.9")
+        self.assertIn("13.0", str(cm.exception))
+        with self.assertRaises(VersionError):
+            self.base.tree("finns-inte")
+
     def test_three_way(self):
         rows = {(r["slag"], r["id"]): r["status"] for r in compare3(self.base, self.A, self.B)}
         self.assertEqual(rows[("block", "B00870")], "KONFLIKT")
