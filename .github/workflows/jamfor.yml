@@ -1,0 +1,40 @@
+name: Jämför versioner
+on:
+  workflow_dispatch:
+    inputs:
+      a:
+        description: "Mapp för version A, t.ex. versions/13.0"
+        required: true
+      b:
+        description: "Mapp för version B, t.ex. versions/14.0"
+        required: true
+      trad_a:
+        description: "Träd i A"
+        default: "dokument"
+      trad_b:
+        description: "Träd i B (tomt = samma som A)"
+        default: ""
+jobs:
+  jamfor:
+    runs-on: ubuntu-latest
+    env:
+      A: ${{ inputs.a }}
+      B: ${{ inputs.b }}
+      TRAD_A: ${{ inputs.trad_a }}
+      TRAD_B: ${{ inputs.trad_b }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Skapa rapport
+        run: |
+          if [ -n "$TRAD_B" ]; then
+            python -m tmall jamfor "$A" "$B" --trad-a "$TRAD_A" --trad-b "$TRAD_B" --ut rapport
+          else
+            python -m tmall jamfor "$A" "$B" --trad-a "$TRAD_A" --ut rapport
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rapport
+          path: rapport/
