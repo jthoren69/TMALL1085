@@ -1,0 +1,781 @@
+{"art": "front", "id": "N0001", "kod": "", "namn": "Dokumentstart", "niva": 0, "stil": "", "titel": "Dokumentstart", "variant": ""}
+{"art": "avsnitt", "id": "N0002", "kod": "", "namn": "Skrivanvisning", "niva": 1, "stil": "Rubrik1", "titel": "Skrivanvisning", "variant": ""}
+{"art": "rubrik", "id": "N0003", "kod": "", "namn": "Tekniska beskrivningens uppbyggnad", "niva": 2, "stil": "Rubrik2", "titel": "Tekniska beskrivningens uppbyggnad", "variant": ""}
+{"art": "rubrik", "id": "N0004", "kod": "", "namn": "TB mall", "niva": 2, "stil": "Rubrik2", "titel": "TB mall", "variant": ""}
+{"art": "rubrik", "id": "N0005", "kod": "", "namn": "Dispositionen", "niva": 2, "stil": "Rubrik2", "titel": "Dispositionen", "variant": ""}
+{"art": "rubrik", "id": "N0006", "kod": "", "namn": "Tillämpning av Dispositionen i TB", "niva": 2, "stil": "Rubrik2", "titel": "Tillämpning av Dispositionen i TB", "variant": ""}
+{"art": "rubrik", "id": "N0007", "kod": "", "namn": "Avsnitt", "niva": 2, "stil": "Rubrik2", "titel": "Avsnitt", "variant": ""}
+{"art": "rubrik", "id": "N0008", "kod": "", "namn": "Kodad rubrik", "niva": 2, "stil": "Rubrik2", "titel": "Kodad rubrik", "variant": ""}
+{"art": "rubrik", "id": "N0009", "kod": "", "namn": "Okodad rubrik", "niva": 2, "stil": "Rubrik2", "titel": "Okodad rubrik", "variant": ""}
+{"art": "rubrik", "id": "N0010", "kod": "", "namn": "Omfattning", "niva": 3, "stil": "Rubrik3", "titel": "Omfattning", "variant": ""}
+{"art": "rubrik", "id": "N0011", "kod": "", "namn": "Funktion", "niva": 3, "stil": "Rubrik3", "titel": "Funktion", "variant": ""}
+{"art": "rubrik", "id": "N0012", "kod": "", "namn": "Teknisk lösning", "niva": 3, "stil": "Rubrik3", "titel": "Teknisk lösning", "variant": ""}
+{"art": "rubrik", "id": "N0013", "kod": "", "namn": "Kontroll", "niva": 3, "stil": "Rubrik3", "titel": "Kontroll", "variant": ""}
+{"art": "rubrik", "id": "N0014", "kod": "", "namn": "Förteckning över åberopade handlingar.", "niva": 3, "stil": "Rubrik3", "titel": "Förteckning över åberopade handlingar.", "variant": ""}
+{"art": "rubrik", "id": "N0015", "kod": "", "namn": "Tekniska beskrivningens kravhierarkier", "niva": 2, "stil": "Rubrik2", "titel": "Tekniska beskrivningens kravhierarkier", "variant": ""}
+{"art": "rubrik", "id": "N0016", "kod": "", "namn": "Övrigt", "niva": 2, "stil": "Rubrik2", "titel": "Övrigt", "variant": ""}
+{"art": "rubrik", "id": "N0017", "kod": "", "namn": "Krav i lag, förordning och föreskrift", "niva": 3, "stil": "Rubrik3", "titel": "Krav i lag, förordning och föreskrift", "variant": ""}
+{"art": "rubrik", "id": "N0018", "kod": "", "namn": "Krav i AMA", "niva": 3, "stil": "Rubrik3", "titel": "Krav i AMA", "variant": ""}
+{"art": "numrerad", "id": "N0019", "kod": "1", "namn": "ALLMÄNT", "niva": 1, "stil": "Numreradrubrik1", "titel": "ALLMÄNT", "variant": ""}
+{"art": "numrerad", "id": "N0020", "kod": "1.1", "namn": "Avsnitt", "niva": 2, "stil": "Numreradrubrik2", "titel": "Avsnitt", "variant": ""}
+{"art": "rubrik", "id": "N0021", "kod": "", "namn": "1. Allmänt", "niva": 3, "stil": "Rubrik3", "titel": "1. Allmänt", "variant": ""}
+{"art": "rubrik", "id": "N0022", "kod": "", "namn": "A Gemensamma krav", "niva": 3, "stil": "Rubrik3", "titel": "A Gemensamma krav", "variant": ""}
+{"art": "rubrik", "id": "N0023", "kod": "", "namn": "B Verksamhet", "niva": 3, "stil": "Rubrik3", "titel": "B Verksamhet", "variant": ""}
+{"art": "rubrik", "id": "N0024", "kod": "", "namn": "C Befintlig mark, miljö och konstruktioner", "niva": 3, "stil": "Rubrik3", "titel": "C Befintlig mark, miljö och konstruktioner", "variant": ""}
+{"art": "rubrik", "id": "N0025", "kod": "", "namn": "D – U Aktuell anläggning", "niva": 3, "stil": "Rubrik3", "titel": "D – U Aktuell anläggning", "variant": ""}
+{"art": "rubrik", "id": "N0026", "kod": "", "namn": "V Extern konstruktion", "niva": 3, "stil": "Rubrik3", "titel": "V Extern konstruktion", "variant": ""}
+{"art": "rubrik", "id": "N0027", "kod": "", "namn": "X Dokumentation", "niva": 3, "stil": "Rubrik3", "titel": "X Dokumentation", "variant": ""}
+{"art": "rubrik", "id": "N0028", "kod": "", "namn": "Lista med referenser till annan handling", "niva": 3, "stil": "Rubrik3", "titel": "Lista med referenser till annan handling", "variant": ""}
+{"art": "numrerad", "id": "N0029", "kod": "1.2", "namn": "Kodad rubrik", "niva": 2, "stil": "Numreradrubrik2", "titel": "Kodad rubrik", "variant": ""}
+{"art": "numrerad", "id": "N0030", "kod": "1.3", "namn": "Okodad rubrik", "niva": 2, "stil": "Numreradrubrik2", "titel": "Okodad rubrik", "variant": ""}
+{"art": "rubrik", "id": "N0031", "kod": "", "namn": "Omfattning", "niva": 3, "stil": "Rubrik3", "titel": "Omfattning", "variant": ""}
+{"art": "rubrik", "id": "N0032", "kod": "", "namn": "Funktion", "niva": 3, "stil": "Rubrik3", "titel": "Funktion", "variant": ""}
+{"art": "rubrik", "id": "N0033", "kod": "", "namn": "Teknisk lösning", "niva": 3, "stil": "Rubrik3", "titel": "Teknisk lösning", "variant": ""}
+{"art": "rubrik", "id": "N0034", "kod": "", "namn": "Kontroll", "niva": 3, "stil": "Rubrik3", "titel": "Kontroll", "variant": ""}
+{"art": "numrerad", "id": "N0035", "kod": "1.4", "namn": "Kravhierarkier", "niva": 2, "stil": "Numreradrubrik2", "titel": "Kravhierarkier", "variant": ""}
+{"art": "numrerad", "id": "N0036", "kod": "1.5", "namn": "Krav i AMA", "niva": 2, "stil": "Numreradrubrik2", "titel": "Krav i AMA", "variant": ""}
+{"art": "avsnitt", "id": "N0037", "kod": "A", "namn": "GEMENSAMMA KRAV", "niva": 1, "stil": "Rubrik1", "titel": "A. GEMENSAMMA KRAV", "variant": ""}
+{"art": "avsnitt", "id": "N0038", "kod": "B", "namn": "VERKSAMHET", "niva": 1, "stil": "Rubrik1", "titel": "B. VERKSAMHET", "variant": ""}
+{"art": "kodad", "id": "N0039", "kod": "B1", "namn": "Vägtrafik", "niva": 2, "stil": "Rubrik2", "titel": "B1. Vägtrafik", "variant": ""}
+{"art": "kodad", "id": "N0040", "kod": "B1", "namn": "Vägtrafik", "niva": 2, "stil": "Rubrik2", "titel": "B1. Vägtrafik// Grupp 1", "variant": "// Grupp 1"}
+{"art": "kodad", "id": "N0041", "kod": "B1", "namn": "Vägtrafik", "niva": 2, "stil": "Rubrik2", "titel": "B1. Vägtrafik// Grupp 2", "variant": "// Grupp 2"}
+{"art": "kodad", "id": "N0042", "kod": "B1", "namn": "Vägtrafik", "niva": 2, "stil": "Rubrik2", "titel": "B1. Vägtrafik// Grupp 3", "variant": "// Grupp 3"}
+{"art": "kodad", "id": "N0043", "kod": "B1", "namn": "Vägtrafik", "niva": 2, "stil": "Rubrik2", "titel": "B1. Vägtrafik// Grupp 4", "variant": "// Grupp 4"}
+{"art": "kodad", "id": "N0044", "kod": "B1", "namn": "Vägtrafik", "niva": 2, "stil": "Rubrik2", "titel": "B1. Vägtrafik/ Trafik under entreprenadtiden", "variant": "/ Trafik under entreprenadtiden"}
+{"art": "kodad", "id": "N0045", "kod": "B2", "namn": "Järnvägstrafik", "niva": 2, "stil": "Rubrik2", "titel": "B2. Järnvägstrafik", "variant": ""}
+{"art": "kodad", "id": "N0046", "kod": "B2", "namn": "Järnvägstrafik", "niva": 2, "stil": "Rubrik2", "titel": "B2. Järnvägstrafik/ Resandeutbyte", "variant": "/ Resandeutbyte"}
+{"art": "kodad", "id": "N0047", "kod": "B2", "namn": "Järnvägstrafik", "niva": 2, "stil": "Rubrik2", "titel": "B2. Järnvägstrafik/ Trafik under entreprenadtiden", "variant": "/ Trafik under entreprenadtiden"}
+{"art": "kodad", "id": "N0048", "kod": "B3", "namn": "Husverksamhet", "niva": 2, "stil": "Rubrik2", "titel": "B3. Husverksamhet", "variant": ""}
+{"art": "avsnitt", "id": "N0049", "kod": "C", "namn": "BEFINTLIG MARK, MILJÖ OCH KONSTRUKTION", "niva": 1, "stil": "Rubrik1", "titel": "C. BEFINTLIG MARK, MILJÖ OCH KONSTRUKTION", "variant": ""}
+{"art": "kodad", "id": "N0050", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö", "variant": ""}
+{"art": "kodad", "id": "N0051", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Allmän vattentäkt", "variant": "/ Allmän vattentäkt"}
+{"art": "kodad", "id": "N0052", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Bergteknik", "variant": "/ Bergteknik"}
+{"art": "kodad", "id": "N0053", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Enskild vattentäkt", "variant": "/ Enskild vattentäkt"}
+{"art": "kodad", "id": "N0054", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Geoteknik", "variant": "/ Geoteknik"}
+{"art": "kodad", "id": "N0055", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Hydrogeologi", "variant": "/ Hydrogeologi"}
+{"art": "kodad", "id": "N0056", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Jord- och skogsbruk", "variant": "/ Jord- och skogsbruk"}
+{"art": "kodad", "id": "N0057", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Kulturmiljö", "variant": "/ Kulturmiljö"}
+{"art": "kodad", "id": "N0058", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Landskap och tätort", "variant": "/ Landskap och tätort"}
+{"art": "kodad", "id": "N0059", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Luftförorening", "variant": "/ Luftförorening"}
+{"art": "kodad", "id": "N0060", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Mark- och vattenförorening", "variant": "/ Mark- och vattenförorening"}
+{"art": "kodad", "id": "N0061", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Markavvattningsföretag, diken o.d", "variant": "/ Markavvattningsföretag, diken o.d"}
+{"art": "kodad", "id": "N0062", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Mätningstekniskt underlag", "variant": "/ Mätningstekniskt underlag"}
+{"art": "kodad", "id": "N0063", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Naturmiljö", "variant": "/ Naturmiljö"}
+{"art": "kodad", "id": "N0064", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Rekreation och friluftsliv", "variant": "/ Rekreation och friluftsliv"}
+{"art": "kodad", "id": "N0065", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Rennäring", "variant": "/ Rennäring"}
+{"art": "kodad", "id": "N0066", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Topografi", "variant": "/ Topografi"}
+{"art": "kodad", "id": "N0067", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Vegetation, jordmån", "variant": "/ Vegetation, jordmån"}
+{"art": "kodad", "id": "N0068", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Vibration, luftstöt, buller", "variant": "/ Vibration, luftstöt, buller"}
+{"art": "kodad", "id": "N0069", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Våtmark", "variant": "/ Våtmark"}
+{"art": "kodad", "id": "N0070", "kod": "C1", "namn": "Befintlig mark och miljö", "niva": 2, "stil": "Rubrik2", "titel": "C1. Befintlig mark och miljö/ Ytvatten", "variant": "/ Ytvatten"}
+{"art": "kodad", "id": "N0071", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion", "variant": ""}
+{"art": "kodad", "id": "N0072", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Bankonstruktion", "variant": "/ Bankonstruktion"}
+{"art": "kodad", "id": "N0073", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Belysningssystem", "variant": "/ Belysningssystem"}
+{"art": "kodad", "id": "N0074", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Bergkonstruktion", "variant": "/ Bergkonstruktion"}
+{"art": "kodad", "id": "N0075", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Bullerskyddsanordning", "variant": "/ Bullerskyddsanordning"}
+{"art": "kodad", "id": "N0076", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Byggnad", "variant": "/ Byggnad"}
+{"art": "kodad", "id": "N0077", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Dagvattensystem", "variant": "/ Dagvattensystem"}
+{"art": "kodad", "id": "N0078", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Dräneringssystem", "variant": "/ Dräneringssystem"}
+{"art": "kodad", "id": "N0079", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Elsystem", "variant": "/ Elsystem"}
+{"art": "kodad", "id": "N0080", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Geotekniska åtgärder", "variant": "/ Geotekniska åtgärder"}
+{"art": "kodad", "id": "N0081", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Gränsmarkering", "variant": "/ Gränsmarkering"}
+{"art": "kodad", "id": "N0082", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Gång- och cykelbro", "variant": "/ Gång- och cykelbro"}
+{"art": "kodad", "id": "N0083", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Kraftförsörjning Järnväg", "variant": "/ Kraftförsörjning Järnväg"}
+{"art": "kodad", "id": "N0084", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Järnvägsanläggning", "variant": "/ Järnvägsanläggning"}
+{"art": "kodad", "id": "N0085", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Järnvägsbro", "variant": "/ Järnvägsbro"}
+{"art": "kodad", "id": "N0086", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Järnvägstunnel", "variant": "/ Järnvägstunnel"}
+{"art": "kodad", "id": "N0087", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Kabelsystem", "variant": "/ Kabelsystem"}
+{"art": "kodad", "id": "N0088", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Kanalisation", "variant": "/ Kanalisation"}
+{"art": "kodad", "id": "N0089", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Kontaktledningssystem", "variant": "/ Kontaktledningssystem"}
+{"art": "kodad", "id": "N0090", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Ortsnät", "variant": "/ Ortsnät"}
+{"art": "kodad", "id": "N0091", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Spår", "variant": "/ Spår"}
+{"art": "kodad", "id": "N0092", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Stenmur", "variant": "/ Stenmur"}
+{"art": "kodad", "id": "N0093", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Stomnät", "variant": "/ Stomnät"}
+{"art": "kodad", "id": "N0094", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Trumma", "variant": "/ Trumma"}
+{"art": "kodad", "id": "N0095", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ VA-nät", "variant": "/ VA-nät"}
+{"art": "kodad", "id": "N0096", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Väganläggning", "variant": "/ Väganläggning"}
+{"art": "kodad", "id": "N0097", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Vägbro", "variant": "/ Vägbro"}
+{"art": "kodad", "id": "N0098", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Vägkonstruktion", "variant": "/ Vägkonstruktion"}
+{"art": "kodad", "id": "N0099", "kod": "C2", "namn": "Befintlig konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "C2. Befintlig konstruktion/ Vägtunnel", "variant": "/ Vägtunnel"}
+{"art": "avsnitt", "id": "N0100", "kod": "D", "namn": "VÄG", "niva": 1, "stil": "Rubrik1", "titel": "D. VÄG", "variant": ""}
+{"art": "kodad", "id": "N0101", "kod": "D", "namn": "Väg", "niva": 2, "stil": "Rubrik2", "titel": "D. Väg// Grupp 1 och 2", "variant": "// Grupp 1 och 2"}
+{"art": "kodad", "id": "N0102", "kod": "D", "namn": "Väg", "niva": 2, "stil": "Rubrik2", "titel": "D. Väg// Grupp 2", "variant": "// Grupp 2"}
+{"art": "kodad", "id": "N0103", "kod": "D", "namn": "Väg", "niva": 2, "stil": "Rubrik2", "titel": "D. Väg// Grupp 2/ Tillfällig väg", "variant": "// Grupp 2/ Tillfällig väg"}
+{"art": "kodad", "id": "N0104", "kod": "D", "namn": "Väg", "niva": 2, "stil": "Rubrik2", "titel": "D. Väg// Grupp 3", "variant": "// Grupp 3"}
+{"art": "kodad", "id": "N0105", "kod": "D", "namn": "Väg", "niva": 2, "stil": "Rubrik2", "titel": "D. Väg// Grupp 4", "variant": "// Grupp 4"}
+{"art": "kodad", "id": "N0106", "kod": "DB", "namn": "Vägkonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "DB. Vägkonstruktion", "variant": ""}
+{"art": "kodad", "id": "N0107", "kod": "DB1", "namn": "Överbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "DB1. Överbyggnad", "variant": ""}
+{"art": "kodad", "id": "N0108", "kod": "DB1", "namn": "Överbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "DB1. Överbyggnad// Grupp 1", "variant": "// Grupp 1"}
+{"art": "kodad", "id": "N0109", "kod": "DB1", "namn": "Överbyggnad", "niva": 2, "stil": "Rubrik2", "titel": "DB1. Överbyggnad// Grupp 2", "variant": "// Grupp 2"}
+{"art": "kodad", "id": "N0110", "kod": "DB11", "namn": "Ytlager i trafikeringsområde", "niva": 3, "stil": "Rubrik3", "titel": "DB11. Ytlager i trafikeringsområde", "variant": ""}
+{"art": "kodad", "id": "N0111", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana", "variant": ""}
+{"art": "kodad", "id": "N0112", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Bundet slitlager", "variant": "/ Bundet slitlager"}
+{"art": "kodad", "id": "N0113", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Bundet slitlager// Grupp 1", "variant": "/ Bundet slitlager// Grupp 1"}
+{"art": "kodad", "id": "N0114", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Bundet slitlager// Grupp 2", "variant": "/ Bundet slitlager// Grupp 2"}
+{"art": "kodad", "id": "N0115", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Bundet slitlager// Grupp 3", "variant": "/ Bundet slitlager// Grupp 3"}
+{"art": "kodad", "id": "N0116", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Gatsten", "variant": "/ Gatsten"}
+{"art": "kodad", "id": "N0117", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Gatsten/ Smågatsten", "variant": "/ Gatsten/ Smågatsten"}
+{"art": "kodad", "id": "N0118", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Gatsten/ Storgatsten", "variant": "/ Gatsten/ Storgatsten"}
+{"art": "kodad", "id": "N0119", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Obundet slitlager", "variant": "/ Obundet slitlager"}
+{"art": "kodad", "id": "N0120", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Obundet slitlager// Grupp 3", "variant": "/ Obundet slitlager// Grupp 3"}
+{"art": "kodad", "id": "N0121", "kod": "DB11b", "namn": "Vägbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11b. Vägbana/ Obundet slitlager// Grupp 4", "variant": "/ Obundet slitlager// Grupp 4"}
+{"art": "kodad", "id": "N0122", "kod": "DB11c", "namn": "Gångbana, cykelbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11c. Gångbana, cykelbana", "variant": ""}
+{"art": "kodad", "id": "N0123", "kod": "DB11c", "namn": "Gångbana, cykelbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11c. Gångbana, cykelbana/ Bundet slitlager", "variant": "/ Bundet slitlager"}
+{"art": "kodad", "id": "N0124", "kod": "DB11c", "namn": "Gångbana, cykelbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11c. Gångbana, cykelbana/ Obundet slitlager", "variant": "/ Obundet slitlager"}
+{"art": "kodad", "id": "N0125", "kod": "DB11cb", "namn": "Gångbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11cb. Gångbana", "variant": ""}
+{"art": "kodad", "id": "N0126", "kod": "DB11cb", "namn": "Gångbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11cb. Gångbana/ Trottoar", "variant": "/ Trottoar"}
+{"art": "kodad", "id": "N0127", "kod": "DB11cb", "namn": "Gångbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11cb. Gångbana/ Plattform", "variant": "/ Plattform"}
+{"art": "kodad", "id": "N0128", "kod": "DB11cc", "namn": "Cykelbana", "niva": 3, "stil": "Rubrik3", "titel": "DB11cc. Cykelbana", "variant": ""}
+{"art": "kodad", "id": "N0129", "kod": "DB11e", "namn": "Skiljeremsa", "niva": 3, "stil": "Rubrik3", "titel": "DB11e. Skiljeremsa", "variant": ""}
+{"art": "kodad", "id": "N0130", "kod": "DB11e", "namn": "Skiljeremsa", "niva": 3, "stil": "Rubrik3", "titel": "DB11e. Skiljeremsa/ Mittremsa", "variant": "/ Mittremsa"}
+{"art": "kodad", "id": "N0131", "kod": "DB11e", "namn": "Skiljeremsa", "niva": 3, "stil": "Rubrik3", "titel": "DB11e. Skiljeremsa/ Sidoremsa", "variant": "/ Sidoremsa"}
+{"art": "kodad", "id": "N0132", "kod": "DB11f", "namn": "Stödremsa", "niva": 3, "stil": "Rubrik3", "titel": "DB11f. Stödremsa", "variant": ""}
+{"art": "kodad", "id": "N0133", "kod": "DB11h", "namn": "Kantstöd", "niva": 3, "stil": "Rubrik3", "titel": "DB11h. Kantstöd", "variant": ""}
+{"art": "kodad", "id": "N0134", "kod": "DB11h", "namn": "Kantstöd", "niva": 3, "stil": "Rubrik3", "titel": "DB11h. Kantstöd/ Natursten", "variant": "/ Natursten"}
+{"art": "kodad", "id": "N0135", "kod": "DB11h", "namn": "Kantstöd", "niva": 3, "stil": "Rubrik3", "titel": "DB11h. Kantstöd/ Betong", "variant": "/ Betong"}
+{"art": "kodad", "id": "N0136", "kod": "DB11j", "namn": "Färist", "niva": 3, "stil": "Rubrik3", "titel": "DB11j. Färist", "variant": ""}
+{"art": "kodad", "id": "N0137", "kod": "DB11y", "namn": "Kompletterande trafikeringsområde", "niva": 3, "stil": "Rubrik3", "titel": "DB11y. Kompletterande trafikeringsområde", "variant": ""}
+{"art": "kodad", "id": "N0138", "kod": "DB11y", "namn": "Kompletterande trafikeringsområde", "niva": 3, "stil": "Rubrik3", "titel": "DB11y. Kompletterande trafikeringsområde/ Vändögla", "variant": "/ Vändögla"}
+{"art": "kodad", "id": "N0139", "kod": "DB12", "namn": "Lager under trafikeringsområde", "niva": 3, "stil": "Rubrik3", "titel": "DB12. Lager under trafikeringsområde", "variant": ""}
+{"art": "kodad", "id": "N0140", "kod": "DB12b", "namn": "Bundet lager", "niva": 3, "stil": "Rubrik3", "titel": "DB12b. Bundet lager", "variant": ""}
+{"art": "kodad", "id": "N0141", "kod": "DB12bb", "namn": "Bindlager", "niva": 3, "stil": "Rubrik3", "titel": "DB12bb. Bindlager", "variant": ""}
+{"art": "kodad", "id": "N0142", "kod": "DB12bc", "namn": "Bundet bärlager", "niva": 3, "stil": "Rubrik3", "titel": "DB12bc. Bundet bärlager", "variant": ""}
+{"art": "kodad", "id": "N0143", "kod": "DB12c", "namn": "Obundet lager", "niva": 3, "stil": "Rubrik3", "titel": "DB12c. Obundet lager", "variant": ""}
+{"art": "kodad", "id": "N0144", "kod": "DB12cb", "namn": "Bärlager", "niva": 3, "stil": "Rubrik3", "titel": "DB12cb. Bärlager", "variant": ""}
+{"art": "kodad", "id": "N0145", "kod": "DB12cb", "namn": "Bärlager", "niva": 3, "stil": "Rubrik3", "titel": "DB12cb Bärlager// Grupp 1 och 2", "variant": "// Grupp 1 och 2"}
+{"art": "kodad", "id": "N0146", "kod": "DB12cb", "namn": "Bärlager", "niva": 3, "stil": "Rubrik3", "titel": "DB12cb. Bärlager// Grupp 3", "variant": "// Grupp 3"}
+{"art": "kodad", "id": "N0147", "kod": "DB12cb", "namn": "Bärlager", "niva": 3, "stil": "Rubrik3", "titel": "DB12cb. Bärlager// Grupp 4", "variant": "// Grupp 4"}
+{"art": "kodad", "id": "N0148", "kod": "DB12cc", "namn": "Förstärkningslager", "niva": 3, "stil": "Rubrik3", "titel": "DB12cc. Förstärkningslager", "variant": ""}
+{"art": "kodad", "id": "N0149", "kod": "DB12cc", "namn": "Förstärkningslager", "niva": 3, "stil": "Rubrik3", "titel": "DB12cc. Förstärkningslager// Grupp 3", "variant": "// Grupp 3"}
+{"art": "kodad", "id": "N0150", "kod": "DB12cc", "namn": "Förstärkningslager", "niva": 3, "stil": "Rubrik3", "titel": "DB12cc. Förstärkningslager// Grupp 4", "variant": "// Grupp 4"}
+{"art": "kodad", "id": "N0151", "kod": "DB12d", "namn": "Skyddslager", "niva": 3, "stil": "Rubrik3", "titel": "DB12d. Skyddslager", "variant": ""}
+{"art": "kodad", "id": "N0152", "kod": "DB12d", "namn": "Skyddslager", "niva": 3, "stil": "Rubrik3", "titel": "DB12d. Skyddslager/ Frostisolering", "variant": "/ Frostisolering"}
+{"art": "kodad", "id": "N0153", "kod": "DB3", "namn": "Underbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "DB3. Underbyggnad", "variant": ""}
+{"art": "kodad", "id": "N0154", "kod": "DB4", "namn": "Undergrund", "niva": 3, "stil": "Rubrik3", "titel": "DB4. Undergrund", "variant": ""}
+{"art": "kodad", "id": "N0155", "kod": "DB5", "namn": "Konstruktion i sidoområde", "niva": 3, "stil": "Rubrik3", "titel": "DB5. Konstruktion i sidoområde", "variant": ""}
+{"art": "kodad", "id": "N0156", "kod": "DB51", "namn": "Slänt", "niva": 3, "stil": "Rubrik3", "titel": "DB51. Slänt", "variant": ""}
+{"art": "kodad", "id": "N0157", "kod": "DB51b", "namn": "Innerslänt", "niva": 3, "stil": "Rubrik3", "titel": "DB51b. Innerslänt", "variant": ""}
+{"art": "kodad", "id": "N0158", "kod": "DB51c", "namn": "Ytterslänt", "niva": 3, "stil": "Rubrik3", "titel": "DB51c. Ytterslänt", "variant": ""}
+{"art": "kodad", "id": "N0159", "kod": "DB51c", "namn": "Ytterslänt", "niva": 3, "stil": "Rubrik3", "titel": "DB51c. Ytterslänt/ Jord", "variant": "/ Jord"}
+{"art": "kodad", "id": "N0160", "kod": "DB51c", "namn": "Ytterslänt", "niva": 3, "stil": "Rubrik3", "titel": "DB51c. Ytterslänt/ Berg", "variant": "/ Berg"}
+{"art": "kodad", "id": "N0161", "kod": "DB52", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "DB52. Vall, skärm", "variant": ""}
+{"art": "kodad", "id": "N0162", "kod": "DB52", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "DB52. Vall, skärm/ Tryckbank", "variant": "/ Tryckbank"}
+{"art": "kodad", "id": "N0163", "kod": "DB52", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "DB52. Vall, skärm/ Bullerskyddsvall", "variant": "/ Bullerskyddsvall"}
+{"art": "kodad", "id": "N0164", "kod": "DB52", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "DB52. Vall, skärm/ Bullerskyddsskärm", "variant": "/ Bullerskyddsskärm"}
+{"art": "kodad", "id": "N0165", "kod": "DB53", "namn": "Vegetation med växtbädd", "niva": 3, "stil": "Rubrik3", "titel": "DB53. Vegetation med växtbädd", "variant": ""}
+{"art": "kodad", "id": "N0166", "kod": "DB55", "namn": "Stödkonstruktion", "niva": 3, "stil": "Rubrik3", "titel": "DB55. Stödkonstruktion", "variant": ""}
+{"art": "kodad", "id": "N0167", "kod": "DB55", "namn": "Stödkonstruktion", "niva": 3, "stil": "Rubrik3", "titel": "DB55. Stödkonstruktion/ Stödmur", "variant": "/ Stödmur"}
+{"art": "kodad", "id": "N0168", "kod": "DB55", "namn": "Stödkonstruktion", "niva": 3, "stil": "Rubrik3", "titel": "DB55. Stödkonstruktion/ Stenfylld nätkorg", "variant": "/ Stenfylld nätkorg"}
+{"art": "kodad", "id": "N0169", "kod": "DB56", "namn": "Stängsel", "niva": 3, "stil": "Rubrik3", "titel": "DB56. Stängsel", "variant": ""}
+{"art": "kodad", "id": "N0170", "kod": "DB56", "namn": "Stängsel", "niva": 3, "stil": "Rubrik3", "titel": "DB56. Stängsel/ Viltstängsel", "variant": "/ Viltstängsel"}
+{"art": "kodad", "id": "N0171", "kod": "DB57", "namn": "Komplettering", "niva": 3, "stil": "Rubrik3", "titel": "DB57. Komplettering", "variant": ""}
+{"art": "kodad", "id": "N0172", "kod": "DB6", "namn": "Trafikö", "niva": 3, "stil": "Rubrik3", "titel": "DB6. Trafikö", "variant": ""}
+{"art": "kodad", "id": "N0173", "kod": "DB61", "namn": "Refug", "niva": 3, "stil": "Rubrik3", "titel": "DB61. Refug", "variant": ""}
+{"art": "kodad", "id": "N0174", "kod": "DB62", "namn": "Rondell", "niva": 3, "stil": "Rubrik3", "titel": "DB62. Rondell", "variant": ""}
+{"art": "kodad", "id": "N0175", "kod": "DB62b", "namn": "Vegetation med växtbädd", "niva": 3, "stil": "Rubrik3", "titel": "DB62b. Vegetation med växtbädd", "variant": ""}
+{"art": "kodad", "id": "N0176", "kod": "DB62bb", "namn": "Vegetation", "niva": 3, "stil": "Rubrik3", "titel": "DB62bb. Vegetation", "variant": ""}
+{"art": "kodad", "id": "N0177", "kod": "DB62bc", "namn": "Växtbädd", "niva": 3, "stil": "Rubrik3", "titel": "DB62bc. Växtbädd", "variant": ""}
+{"art": "kodad", "id": "N0178", "kod": "DB7", "namn": "Avvattningssystem o.d.", "niva": 3, "stil": "Rubrik3", "titel": "DB7. Avvattningssystem o.d.", "variant": ""}
+{"art": "kodad", "id": "N0179", "kod": "DB71", "namn": "Dräneringssystem", "niva": 3, "stil": "Rubrik3", "titel": "DB71. Dräneringssystem", "variant": ""}
+{"art": "kodad", "id": "N0180", "kod": "DB71b", "namn": "Dräneringsledning", "niva": 3, "stil": "Rubrik3", "titel": "DB71b. Dräneringsledning", "variant": ""}
+{"art": "kodad", "id": "N0181", "kod": "DB71c", "namn": "Dräneringsbrunn", "niva": 3, "stil": "Rubrik3", "titel": "DB71c. Dräneringsbrunn", "variant": ""}
+{"art": "kodad", "id": "N0182", "kod": "DB72", "namn": "Dagvattensystem", "niva": 3, "stil": "Rubrik3", "titel": "DB72. Dagvattensystem", "variant": ""}
+{"art": "kodad", "id": "N0183", "kod": "DB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "DB72b. Ledning", "variant": ""}
+{"art": "kodad", "id": "N0184", "kod": "DB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "DB72b. Ledning/ Självfallsledning", "variant": "/ Självfallsledning"}
+{"art": "kodad", "id": "N0185", "kod": "DB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "DB72b. Ledning/ Tryckledning", "variant": "/ Tryckledning"}
+{"art": "kodad", "id": "N0186", "kod": "DB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "DB72b. Ledning/ Skyddsledning", "variant": "/ Skyddsledning"}
+{"art": "kodad", "id": "N0187", "kod": "DB72bb", "namn": "Galler", "niva": 3, "stil": "Rubrik3", "titel": "DB72bb. Galler", "variant": ""}
+{"art": "kodad", "id": "N0188", "kod": "DB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DB72c. Brunn", "variant": ""}
+{"art": "kodad", "id": "N0189", "kod": "DB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DB72c. Brunn/ Dagvattenbrunn", "variant": "/ Dagvattenbrunn"}
+{"art": "kodad", "id": "N0190", "kod": "DB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DB72c. Brunn/ Nedstigningsbrunn", "variant": "/ Nedstigningsbrunn"}
+{"art": "kodad", "id": "N0191", "kod": "DB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DB72c. Brunn/ Tillsynsbrunn", "variant": "/ Tillsynsbrunn"}
+{"art": "kodad", "id": "N0192", "kod": "DB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DB72c. Brunn/ Specialbrunn", "variant": "/ Specialbrunn"}
+{"art": "kodad", "id": "N0193", "kod": "DB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DB72c. Brunn/ Perkolationsbrunn", "variant": "/ Perkolationsbrunn"}
+{"art": "kodad", "id": "N0194", "kod": "DB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DB72c. Brunn/ Brunn med avskiljande funktion", "variant": "/ Brunn med avskiljande funktion"}
+{"art": "kodad", "id": "N0195", "kod": "DB72d", "namn": "Dagvattenmagasin", "niva": 3, "stil": "Rubrik3", "titel": "DB72d. Dagvattenmagasin", "variant": ""}
+{"art": "kodad", "id": "N0196", "kod": "DB72d", "namn": "Dagvattenmagasin", "niva": 3, "stil": "Rubrik3", "titel": "DB72d. Dagvattenmagasin/ Öppen damm", "variant": "/ Öppen damm"}
+{"art": "kodad", "id": "N0197", "kod": "DB72d", "namn": "Dagvattenmagasin", "niva": 3, "stil": "Rubrik3", "titel": "DB72d. Dagvattenmagasin/ Underjordiskt magasin", "variant": "/ Underjordiskt magasin"}
+{"art": "kodad", "id": "N0198", "kod": "DB72e", "namn": "Öppen dagvattenanläggning, markfilter, översilningsyta", "niva": 3, "stil": "Rubrik3", "titel": "DB72e. Öppen dagvattenanläggning, markfilter, översilningsyta", "variant": ""}
+{"art": "kodad", "id": "N0199", "kod": "DB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "DB73. Dike", "variant": ""}
+{"art": "kodad", "id": "N0200", "kod": "DB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "DB73. Dike/ Skärningsdike", "variant": "/ Skärningsdike"}
+{"art": "kodad", "id": "N0201", "kod": "DB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "DB73. Dike/ Bankdike", "variant": "/ Bankdike"}
+{"art": "kodad", "id": "N0202", "kod": "DB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "DB73. Dike/ Överdike", "variant": "/ Överdike"}
+{"art": "kodad", "id": "N0203", "kod": "DB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "DB73. Dike/ Bankettdike", "variant": "/ Bankettdike"}
+{"art": "kodad", "id": "N0204", "kod": "DB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "DB73. Dike/ Terrängdike", "variant": "/ Terrängdike"}
+{"art": "kodad", "id": "N0205", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma", "variant": ""}
+{"art": "kodad", "id": "N0206", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma// XXXX", "variant": "// XXXX"}
+{"art": "kodad", "id": "N0207", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma/ Vägtrumma", "variant": "/ Vägtrumma"}
+{"art": "kodad", "id": "N0208", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma/ Vägtrumma// XX", "variant": "/ Vägtrumma// XX"}
+{"art": "kodad", "id": "N0209", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma/ Vägtrumma// XXX", "variant": "/ Vägtrumma// XXX"}
+{"art": "kodad", "id": "N0210", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma/ Vägtrumma// XXXX", "variant": "/ Vägtrumma// XXXX"}
+{"art": "kodad", "id": "N0211", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma/ Sidotrumma", "variant": "/ Sidotrumma"}
+{"art": "kodad", "id": "N0212", "kod": "DB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74. Trumma/ Torrtrumma", "variant": "/ Torrtrumma"}
+{"art": "kodad", "id": "N0213", "kod": "DB74b", "namn": "Galler", "niva": 3, "stil": "Rubrik3", "titel": "DB74b. Galler", "variant": ""}
+{"art": "kodad", "id": "N0214", "kod": "DB74c", "namn": "Brunn på trumma", "niva": 3, "stil": "Rubrik3", "titel": "DB74c. Brunn på trumma", "variant": ""}
+{"art": "kodad", "id": "N0215", "kod": "DB75", "namn": "Pumpanläggning", "niva": 3, "stil": "Rubrik3", "titel": "DB75. Pumpanläggning", "variant": ""}
+{"art": "kodad", "id": "N0216", "kod": "DB75", "namn": "Pumpanläggning", "niva": 3, "stil": "Rubrik3", "titel": "DB75. Pumpanläggning// XX", "variant": "// XX"}
+{"art": "kodad", "id": "N0217", "kod": "DC", "namn": "Vägskyddsanordning", "niva": 2, "stil": "Rubrik2", "titel": "DC. Vägskyddsanordning", "variant": ""}
+{"art": "kodad", "id": "N0218", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke", "variant": ""}
+{"art": "kodad", "id": "N0219", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke/ Vägräcke", "variant": "/ Vägräcke"}
+{"art": "kodad", "id": "N0220", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke/ Vägräcke// Slänträcke", "variant": "/ Vägräcke// Slänträcke"}
+{"art": "kodad", "id": "N0221", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke/ Vägräcke// Sidoräcke", "variant": "/ Vägräcke// Sidoräcke"}
+{"art": "kodad", "id": "N0222", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke/ Vägräcke// Mitträcke", "variant": "/ Vägräcke// Mitträcke"}
+{"art": "kodad", "id": "N0223", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke/ Broräcke", "variant": "/ Broräcke"}
+{"art": "kodad", "id": "N0224", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke/ Gång- och cykelräcke på väg", "variant": "/ Gång- och cykelräcke på väg"}
+{"art": "kodad", "id": "N0225", "kod": "DC1", "namn": "Räcke", "niva": 3, "stil": "Rubrik3", "titel": "DC1. Räcke/ Gång- och cykelbroräcke", "variant": "/ Gång- och cykelbroräcke"}
+{"art": "kodad", "id": "N0226", "kod": "DC11", "namn": "Räckesavslutning", "niva": 3, "stil": "Rubrik3", "titel": "DC11. Räckesavslutning", "variant": ""}
+{"art": "kodad", "id": "N0227", "kod": "DC11", "namn": "Räckesavslutning", "niva": 3, "stil": "Rubrik3", "titel": "DC11. Räckesavslutning/ Energiupptagande räckesavslutning", "variant": "/ Energiupptagande räckesavslutning"}
+{"art": "kodad", "id": "N0228", "kod": "DC11", "namn": "Räckesavslutning", "niva": 3, "stil": "Rubrik3", "titel": "DC11. Räckesavslutning/ Ej energiupptagande räckesavslutning", "variant": "/ Ej energiupptagande räckesavslutning"}
+{"art": "kodad", "id": "N0229", "kod": "DC12", "namn": "Räckesförankring", "niva": 3, "stil": "Rubrik3", "titel": "DC12. Räckesförankring", "variant": ""}
+{"art": "kodad", "id": "N0230", "kod": "DC13", "namn": "Öppningsbar räckesdel", "niva": 3, "stil": "Rubrik3", "titel": "DC13. Öppningsbar räckesdel", "variant": ""}
+{"art": "kodad", "id": "N0231", "kod": "DC14", "namn": "Övergång", "niva": 3, "stil": "Rubrik3", "titel": "DC14. Övergång", "variant": ""}
+{"art": "kodad", "id": "N0232", "kod": "DC14", "namn": "Övergång", "niva": 3, "stil": "Rubrik3", "titel": "DC14. Övergång/ Räckesövergång", "variant": "/ Räckesövergång"}
+{"art": "kodad", "id": "N0233", "kod": "DC14", "namn": "Övergång", "niva": 3, "stil": "Rubrik3", "titel": "DC14. Övergång/ Anslutningsövergång", "variant": "/ Anslutningsövergång"}
+{"art": "kodad", "id": "N0234", "kod": "DC15", "namn": "Krockdämpare", "niva": 3, "stil": "Rubrik3", "titel": "DC15. Krockdämpare", "variant": ""}
+{"art": "kodad", "id": "N0235", "kod": "DC16", "namn": "Räckeskomplettering", "niva": 3, "stil": "Rubrik3", "titel": "DC16. Räckeskomplettering", "variant": ""}
+{"art": "kodad", "id": "N0236", "kod": "DC16", "namn": "Räckeskomplettering", "niva": 3, "stil": "Rubrik3", "titel": "DC16. Räckeskomplettering/ Stänkskydd", "variant": "/ Stänkskydd"}
+{"art": "kodad", "id": "N0237", "kod": "DC16", "namn": "Räckeskomplettering", "niva": 3, "stil": "Rubrik3", "titel": "DC16. Räckeskomplettering/ Skyddsnät", "variant": "/ Skyddsnät"}
+{"art": "kodad", "id": "N0238", "kod": "DC16", "namn": "Räckeskomplettering", "niva": 3, "stil": "Rubrik3", "titel": "DC16. Räckeskomplettering/ Spjälgrind", "variant": "/ Spjälgrind"}
+{"art": "kodad", "id": "N0239", "kod": "DC16", "namn": "Räckeskomplettering", "niva": 3, "stil": "Rubrik3", "titel": "DC16. Räckeskomplettering/ Underglidningsskydd för MC", "variant": "/ Underglidningsskydd för MC"}
+{"art": "kodad", "id": "N0240", "kod": "DC17", "namn": "Fallskydd", "niva": 3, "stil": "Rubrik3", "titel": "DC17. Fallskydd// Bro", "variant": "// Bro"}
+{"art": "kodad", "id": "N0241", "kod": "DC2", "namn": "Bländskyddsanordning", "niva": 3, "stil": "Rubrik3", "titel": "DC2. Bländskyddsanordning", "variant": ""}
+{"art": "kodad", "id": "N0242", "kod": "DD", "namn": "Vägmärke, vägmarkering och vägkantsutmärkning", "niva": 2, "stil": "Rubrik2", "titel": "DD. Vägmärke, vägmarkering och vägkantsutmärkning", "variant": ""}
+{"art": "kodad", "id": "N0243", "kod": "DD1", "namn": "Vägmärke", "niva": 3, "stil": "Rubrik3", "titel": "DD1. Vägmärke", "variant": ""}
+{"art": "kodad", "id": "N0244", "kod": "DD1", "namn": "Vägmärke", "niva": 3, "stil": "Rubrik3", "titel": "DD1. Vägmärke/ Standardvägmärke", "variant": "/ Standardvägmärke"}
+{"art": "kodad", "id": "N0245", "kod": "DD1", "namn": "Vägmärke", "niva": 3, "stil": "Rubrik3", "titel": "DD1. Vägmärke/ Ej standardvägmärke", "variant": "/ Ej standardvägmärke"}
+{"art": "kodad", "id": "N0246", "kod": "DD11", "namn": "Skylt", "niva": 3, "stil": "Rubrik3", "titel": "DD11. Skylt", "variant": ""}
+{"art": "kodad", "id": "N0247", "kod": "DD12", "namn": "Portal, stolpe", "niva": 3, "stil": "Rubrik3", "titel": "DD12. Portal, stolpe", "variant": ""}
+{"art": "rubrik", "id": "N0248", "kod": "", "namn": "Egentyngd", "niva": 4, "stil": "Rubrik4", "titel": "Egentyngd", "variant": ""}
+{"art": "rubrik", "id": "N0249", "kod": "", "namn": "Vindlast", "niva": 4, "stil": "Rubrik4", "titel": "Vindlast", "variant": ""}
+{"art": "rubrik", "id": "N0250", "kod": "", "namn": "Snölast", "niva": 4, "stil": "Rubrik4", "titel": "Snölast", "variant": ""}
+{"art": "kodad", "id": "N0251", "kod": "DD12b", "namn": "Portal", "niva": 3, "stil": "Rubrik3", "titel": "DD12b. Portal", "variant": ""}
+{"art": "kodad", "id": "N0252", "kod": "DD12c", "namn": "Stolpe", "niva": 3, "stil": "Rubrik3", "titel": "DD12c. Stolpe", "variant": ""}
+{"art": "kodad", "id": "N0253", "kod": "DD13", "namn": "Fundament", "niva": 3, "stil": "Rubrik3", "titel": "DD13. Fundament", "variant": ""}
+{"art": "kodad", "id": "N0254", "kod": "DD13b", "namn": "Fundament för portal", "niva": 3, "stil": "Rubrik3", "titel": "DD13b. Fundament för portal", "variant": ""}
+{"art": "kodad", "id": "N0255", "kod": "DD13c", "namn": "Fundament för stolpe", "niva": 3, "stil": "Rubrik3", "titel": "DD13c. Fundament för stolpe", "variant": ""}
+{"art": "kodad", "id": "N0256", "kod": "DD2", "namn": "Vägmarkering", "niva": 3, "stil": "Rubrik3", "titel": "DD2. Vägmarkering", "variant": ""}
+{"art": "kodad", "id": "N0257", "kod": "DD23", "namn": "Bullerräfflor", "niva": 3, "stil": "Rubrik3", "titel": "DD23. Bullerräfflor", "variant": ""}
+{"art": "kodad", "id": "N0258", "kod": "DD24", "namn": "Bullerremsor", "niva": 3, "stil": "Rubrik3", "titel": "DD24. Bullerremsor", "variant": ""}
+{"art": "kodad", "id": "N0259", "kod": "DD25", "namn": "Vägbanereflektorer", "niva": 3, "stil": "Rubrik3", "titel": "DD25. Vägbanereflektorer", "variant": ""}
+{"art": "kodad", "id": "N0260", "kod": "DD3", "namn": "Kantstolpe", "niva": 3, "stil": "Rubrik3", "titel": "DD3. Kantstolpe", "variant": ""}
+{"art": "kodad", "id": "N0261", "kod": "DD31", "namn": "Stolpdel", "niva": 3, "stil": "Rubrik3", "titel": "DD31. Stolpdel", "variant": ""}
+{"art": "kodad", "id": "N0262", "kod": "DD5", "namn": "Markeringsstolpe", "niva": 3, "stil": "Rubrik3", "titel": "DD5. Markeringsstolpe", "variant": ""}
+{"art": "kodad", "id": "N0263", "kod": "DE", "namn": "Belysningssystem", "niva": 2, "stil": "Rubrik2", "titel": "DE. Belysningssystem", "variant": ""}
+{"art": "kodad", "id": "N0264", "kod": "DE1", "namn": "Belysningcentral", "niva": 3, "stil": "Rubrik3", "titel": "DE1. Belysningcentral", "variant": ""}
+{"art": "kodad", "id": "N0265", "kod": "DE11", "namn": "Styrsystem", "niva": 3, "stil": "Rubrik3", "titel": "DE11. Styrsystem", "variant": ""}
+{"art": "kodad", "id": "N0266", "kod": "DE2", "namn": "Belysningsarmatur", "niva": 3, "stil": "Rubrik3", "titel": "DE2. Belysningsarmatur", "variant": ""}
+{"art": "kodad", "id": "N0267", "kod": "DE3", "namn": "Belysningsstolpe eller –mast", "niva": 3, "stil": "Rubrik3", "titel": "DE3. Belysningsstolpe eller –mast", "variant": ""}
+{"art": "kodad", "id": "N0268", "kod": "DE31", "namn": "Stolpe eller mast", "niva": 3, "stil": "Rubrik3", "titel": "DE31. Stolpe eller mast", "variant": ""}
+{"art": "kodad", "id": "N0269", "kod": "DE32", "namn": "Stolpcentral", "niva": 3, "stil": "Rubrik3", "titel": "DE32. Stolpcentral", "variant": ""}
+{"art": "kodad", "id": "N0270", "kod": "DE33", "namn": "Fundament", "niva": 3, "stil": "Rubrik3", "titel": "DE33. Fundament", "variant": ""}
+{"art": "kodad", "id": "N0271", "kod": "DE4", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "DE4. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0272", "kod": "DF", "namn": "Kabelkanalisationssystem", "niva": 2, "stil": "Rubrik2", "titel": "DF. Kabelkanalisationssystem", "variant": ""}
+{"art": "kodad", "id": "N0273", "kod": "DF1", "namn": "Rör", "niva": 3, "stil": "Rubrik3", "titel": "DF1. Rör", "variant": ""}
+{"art": "kodad", "id": "N0274", "kod": "DF4", "namn": "Kabelstege", "niva": 3, "stil": "Rubrik3", "titel": "DF4. Kabelstege", "variant": ""}
+{"art": "kodad", "id": "N0275", "kod": "DF5", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DF5. Brunn", "variant": ""}
+{"art": "kodad", "id": "N0276", "kod": "DF5", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "DF5. Brunn/ Kabelbrunn", "variant": "/ Kabelbrunn"}
+{"art": "kodad", "id": "N0277", "kod": "DH", "namn": "System för trafikledning och anläggningsövervakning", "niva": 2, "stil": "Rubrik2", "titel": "DH. System för trafikledning och anläggningsövervakning", "variant": ""}
+{"art": "kodad", "id": "N0278", "kod": "DI", "namn": "IT-infrastruktur", "niva": 2, "stil": "Rubrik2", "titel": "DI. IT-infrastruktur", "variant": ""}
+{"art": "kodad", "id": "N0279", "kod": "DI1", "namn": "Kommunikationsanläggning", "niva": 3, "stil": "Rubrik3", "titel": "DI1. Kommunikationsanläggning", "variant": ""}
+{"art": "kodad", "id": "N0280", "kod": "DI2", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "DI2. Telekabel", "variant": ""}
+{"art": "kodad", "id": "N0281", "kod": "DI2", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "DI2. Telekabel/ Optokabel", "variant": "/ Optokabel"}
+{"art": "kodad", "id": "N0282", "kod": "DI2", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "DI2. Telekabel/ Lokalt accessnät", "variant": "/ Lokalt accessnät"}
+{"art": "kodad", "id": "N0283", "kod": "DI2", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "DI2. Telekabel/ Fastighetsnät", "variant": "/ Fastighetsnät"}
+{"art": "kodad", "id": "N0284", "kod": "DI3", "namn": "Serveranläggning", "niva": 3, "stil": "Rubrik3", "titel": "DI3. Serveranläggning", "variant": ""}
+{"art": "kodad", "id": "N0285", "kod": "DI4", "namn": "Telefonianläggning", "niva": 3, "stil": "Rubrik3", "titel": "DI4. Telefonianläggning", "variant": ""}
+{"art": "kodad", "id": "N0286", "kod": "DI5", "namn": "Radioanläggning", "niva": 3, "stil": "Rubrik3", "titel": "DI5. Radioanläggning", "variant": ""}
+{"art": "kodad", "id": "N0287", "kod": "DI51", "namn": "Tunnelradio", "niva": 3, "stil": "Rubrik3", "titel": "DI51. Tunnelradio", "variant": ""}
+{"art": "kodad", "id": "N0288", "kod": "DI51b", "namn": "RAKEL", "niva": 3, "stil": "Rubrik3", "titel": "DI51b. RAKEL", "variant": ""}
+{"art": "kodad", "id": "N0289", "kod": "DI51c", "namn": "System för publik operatör", "niva": 3, "stil": "Rubrik3", "titel": "DI51c. System för publik operatör", "variant": ""}
+{"art": "kodad", "id": "N0290", "kod": "DI51d", "namn": "FM-radio", "niva": 3, "stil": "Rubrik3", "titel": "DI51d. FM-radio", "variant": ""}
+{"art": "kodad", "id": "N0291", "kod": "DJ", "namn": "Passage för fauna e.d.", "niva": 2, "stil": "Rubrik2", "titel": "DJ. Passage för fauna e.d.", "variant": ""}
+{"art": "kodad", "id": "N0292", "kod": "DZ", "namn": "Övrigt", "niva": 2, "stil": "Rubrik2", "titel": "DZ. Övrigt", "variant": ""}
+{"art": "avsnitt", "id": "N0293", "kod": "F", "namn": "JÄRNVÄG", "niva": 1, "stil": "Rubrik1", "titel": "F. JÄRNVÄG", "variant": ""}
+{"art": "kodad", "id": "N0294", "kod": "FB", "namn": "Bankonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "FB. Bankonstruktion", "variant": ""}
+{"art": "kodad", "id": "N0295", "kod": "FB1", "namn": "Banöverbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "FB1. Banöverbyggnad", "variant": ""}
+{"art": "kodad", "id": "N0296", "kod": "FB1", "namn": "Banöverbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "FB1 Banöverbyggnad/ Ballasterad", "variant": "/ Ballasterad"}
+{"art": "kodad", "id": "N0297", "kod": "FB1", "namn": "Banöverbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "FB1 Banöverbyggnad/ Ballastfri", "variant": "/ Ballastfri"}
+{"art": "kodad", "id": "N0298", "kod": "FB1", "namn": "Banöverbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "FB1 Banöverbyggnad// Spår //x//", "variant": "// Spår //x//"}
+{"art": "kodad", "id": "N0299", "kod": "FB1", "namn": "Banöverbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "FB1. Banöverbyggnad// Plankorsning", "variant": "// Plankorsning"}
+{"art": "kodad", "id": "N0300", "kod": "FB1", "namn": "Banöverbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "FB1. Banöverbyggnad// Plattformsövergång", "variant": "// Plattformsövergång"}
+{"art": "kodad", "id": "N0301", "kod": "FB11", "namn": "Spår", "niva": 3, "stil": "Rubrik3", "titel": "FB11. Spår", "variant": ""}
+{"art": "kodad", "id": "N0302", "kod": "FB11b", "namn": "Räl", "niva": 3, "stil": "Rubrik3", "titel": "FB11b. Räl", "variant": ""}
+{"art": "kodad", "id": "N0303", "kod": "FB11b", "namn": "Räl", "niva": 3, "stil": "Rubrik3", "titel": "FB11b. Räl/ Gaturäl", "variant": "/ Gaturäl"}
+{"art": "kodad", "id": "N0304", "kod": "FB11b", "namn": "Räl", "niva": 3, "stil": "Rubrik3", "titel": "FB11b. Räl/ Övergångsräl", "variant": "/ Övergångsräl"}
+{"art": "kodad", "id": "N0305", "kod": "FB11b", "namn": "Räl", "niva": 3, "stil": "Rubrik3", "titel": "FB11b. Räl/ Skyddsräl", "variant": "/ Skyddsräl"}
+{"art": "kodad", "id": "N0306", "kod": "FB11c", "namn": "Spårväxel", "niva": 3, "stil": "Rubrik3", "titel": "FB11c. Spårväxel", "variant": ""}
+{"art": "kodad", "id": "N0307", "kod": "FB11d", "namn": "Rälsskarv", "niva": 3, "stil": "Rubrik3", "titel": "FB11d. Rälsskarv", "variant": ""}
+{"art": "kodad", "id": "N0308", "kod": "FB11d", "namn": "Rälsskarv", "niva": 3, "stil": "Rubrik3", "titel": "FB11d. Rälsskarv/ Skarvspår", "variant": "/ Skarvspår"}
+{"art": "kodad", "id": "N0309", "kod": "FB11d", "namn": "Rälsskarv", "niva": 3, "stil": "Rubrik3", "titel": "FB11d. Rälsskarv/ Skarvfritt spår", "variant": "/ Skarvfritt spår"}
+{"art": "kodad", "id": "N0310", "kod": "FB11d", "namn": "Rälsskarv", "niva": 3, "stil": "Rubrik3", "titel": "FB11d. Rälsskarv/ Dilatationsskarv", "variant": "/ Dilatationsskarv"}
+{"art": "kodad", "id": "N0311", "kod": "FB11d", "namn": "Rälsskarv", "niva": 3, "stil": "Rubrik3", "titel": "FB11d. Rälsskarv/ Provisorisk skarv", "variant": "/ Provisorisk skarv"}
+{"art": "kodad", "id": "N0312", "kod": "FB11d", "namn": "Rälsskarv", "niva": 3, "stil": "Rubrik3", "titel": "FB11d Rälsskarv/ Isolerskarv", "variant": "/ Isolerskarv"}
+{"art": "kodad", "id": "N0313", "kod": "FB11e", "namn": "Befästning", "niva": 3, "stil": "Rubrik3", "titel": "FB11e. Befästning", "variant": ""}
+{"art": "kodad", "id": "N0314", "kod": "FB11e", "namn": "Befästning", "niva": 3, "stil": "Rubrik3", "titel": "FB11e. Befästning/ Spårplatta av betong", "variant": "/ Spårplatta av betong"}
+{"art": "kodad", "id": "N0315", "kod": "FB11e", "namn": "Befästning", "niva": 3, "stil": "Rubrik3", "titel": "FB11e. Befästning/ Spik och underläggsplatta", "variant": "/ Spik och underläggsplatta"}
+{"art": "kodad", "id": "N0316", "kod": "FB11e", "namn": "Befästning", "niva": 3, "stil": "Rubrik3", "titel": "FB11e. Befästning/ Heyback", "variant": "/ Heyback"}
+{"art": "kodad", "id": "N0317", "kod": "FB11e", "namn": "Befästning", "niva": 3, "stil": "Rubrik3", "titel": "FB11e. Befästning/ Pandrol", "variant": "/ Pandrol"}
+{"art": "kodad", "id": "N0318", "kod": "FB11f", "namn": "Rälsvandringshinder", "niva": 3, "stil": "Rubrik3", "titel": "FB11f. Rälsvandringshinder", "variant": ""}
+{"art": "kodad", "id": "N0319", "kod": "FB11g", "namn": "Sliper", "niva": 3, "stil": "Rubrik3", "titel": "FB11g. Sliper", "variant": ""}
+{"art": "kodad", "id": "N0320", "kod": "FB11g", "namn": "Sliper", "niva": 3, "stil": "Rubrik3", "titel": "FB11g. Sliper/ Spår //x//", "variant": "/ Spår //x//"}
+{"art": "kodad", "id": "N0321", "kod": "FB11g", "namn": "Sliper", "niva": 3, "stil": "Rubrik3", "titel": "FB11g. Sliper/ Bro", "variant": "/ Bro"}
+{"art": "kodad", "id": "N0322", "kod": "FB11g", "namn": "Sliper", "niva": 3, "stil": "Rubrik3", "titel": "FB11g. Sliper/ Skyddsräl", "variant": "/ Skyddsräl"}
+{"art": "kodad", "id": "N0323", "kod": "FB11g", "namn": "Sliper", "niva": 3, "stil": "Rubrik3", "titel": "FB11g. Sliper/ Plankorsning", "variant": "/ Plankorsning"}
+{"art": "kodad", "id": "N0324", "kod": "FB12", "namn": "Överballast", "niva": 3, "stil": "Rubrik3", "titel": "FB12. Överballast", "variant": ""}
+{"art": "kodad", "id": "N0325", "kod": "FB13", "namn": "Spårplatta av betong", "niva": 3, "stil": "Rubrik3", "titel": "FB13. Spårplatta av betong", "variant": ""}
+{"art": "kodad", "id": "N0326", "kod": "FB2", "namn": "Underballast", "niva": 3, "stil": "Rubrik3", "titel": "FB2. Underballast", "variant": ""}
+{"art": "kodad", "id": "N0327", "kod": "FB21", "namn": "Förstärkningslager", "niva": 3, "stil": "Rubrik3", "titel": "FB21. Förstärkningslager", "variant": ""}
+{"art": "kodad", "id": "N0328", "kod": "FB22", "namn": "Frostisoleringslager", "niva": 3, "stil": "Rubrik3", "titel": "FB22. Frostisoleringslager", "variant": ""}
+{"art": "kodad", "id": "N0329", "kod": "FB3", "namn": "Underbyggnad", "niva": 3, "stil": "Rubrik3", "titel": "FB3. Underbyggnad", "variant": ""}
+{"art": "kodad", "id": "N0330", "kod": "FB4", "namn": "Undergrund", "niva": 3, "stil": "Rubrik3", "titel": "FB4. Undergrund", "variant": ""}
+{"art": "kodad", "id": "N0331", "kod": "FB5", "namn": "Kompletterande utrustning i bankonstruktion", "niva": 3, "stil": "Rubrik3", "titel": "FB5. Kompletterande utrustning i bankonstruktion", "variant": ""}
+{"art": "kodad", "id": "N0332", "kod": "FB51", "namn": "Kompletterande spårutrustning", "niva": 3, "stil": "Rubrik3", "titel": "FB51. Kompletterande spårutrustning", "variant": ""}
+{"art": "kodad", "id": "N0333", "kod": "FB51b", "namn": "Hinderfrihetspåle", "niva": 3, "stil": "Rubrik3", "titel": "FB51b. Hinderfrihetspåle", "variant": ""}
+{"art": "kodad", "id": "N0334", "kod": "FB51c", "namn": "Tavla", "niva": 3, "stil": "Rubrik3", "titel": "FB51c. Tavla", "variant": ""}
+{"art": "kodad", "id": "N0335", "kod": "FB52", "namn": "Kompletterande bangårdsutrustning", "niva": 3, "stil": "Rubrik3", "titel": "FB52. Kompletterande bangårdsutrustning", "variant": ""}
+{"art": "kodad", "id": "N0336", "kod": "FB52b", "namn": "Stoppbock", "niva": 3, "stil": "Rubrik3", "titel": "FB52b. Stoppbock", "variant": ""}
+{"art": "kodad", "id": "N0337", "kod": "FB52c", "namn": "Spårspärr", "niva": 3, "stil": "Rubrik3", "titel": "FB52c. Spårspärr", "variant": ""}
+{"art": "kodad", "id": "N0338", "kod": "FB52f", "namn": "Rangerbromssystem", "niva": 3, "stil": "Rubrik3", "titel": "FB52f. Rangerbromssystem", "variant": ""}
+{"art": "kodad", "id": "N0339", "kod": "FB52g", "namn": "Rälssmörjningsapparat", "niva": 3, "stil": "Rubrik3", "titel": "FB52g. Rälssmörjningsapparat", "variant": ""}
+{"art": "kodad", "id": "N0340", "kod": "FB6", "namn": "Konstruktion i sidoområde", "niva": 3, "stil": "Rubrik3", "titel": "FB6. Konstruktion i sidoområde", "variant": ""}
+{"art": "kodad", "id": "N0341", "kod": "FB61", "namn": "Slänt", "niva": 3, "stil": "Rubrik3", "titel": "FB61. Slänt", "variant": ""}
+{"art": "kodad", "id": "N0342", "kod": "FB61b", "namn": "Innerslänt", "niva": 3, "stil": "Rubrik3", "titel": "FB61b. Innerslänt", "variant": ""}
+{"art": "kodad", "id": "N0343", "kod": "FB61c", "namn": "Ytterslänt", "niva": 3, "stil": "Rubrik3", "titel": "FB61c. Ytterslänt", "variant": ""}
+{"art": "kodad", "id": "N0344", "kod": "FB61c", "namn": "Ytterslänt", "niva": 3, "stil": "Rubrik3", "titel": "FB61c. Ytterslänt/ Jord", "variant": "/ Jord"}
+{"art": "kodad", "id": "N0345", "kod": "FB61c", "namn": "Ytterslänt", "niva": 3, "stil": "Rubrik3", "titel": "FB61c. Ytterslänt/ Berg", "variant": "/ Berg"}
+{"art": "kodad", "id": "N0346", "kod": "FB62", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "FB62. Vall, skärm", "variant": ""}
+{"art": "kodad", "id": "N0347", "kod": "FB62", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "FB62. Vall, skärm/ Tryckbank", "variant": "/ Tryckbank"}
+{"art": "kodad", "id": "N0348", "kod": "FB62", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "FB62. Vall, skärm/ Bullerskyddsvall", "variant": "/ Bullerskyddsvall"}
+{"art": "kodad", "id": "N0349", "kod": "FB62", "namn": "Vall, skärm", "niva": 3, "stil": "Rubrik3", "titel": "FB62. Vall, skärm/ Bullerskyddsskärm", "variant": "/ Bullerskyddsskärm"}
+{"art": "kodad", "id": "N0350", "kod": "FB63", "namn": "Vegetation med växtbädd", "niva": 3, "stil": "Rubrik3", "titel": "FB63. Vegetation med växtbädd", "variant": ""}
+{"art": "kodad", "id": "N0351", "kod": "FB63b", "namn": "Vegetation", "niva": 3, "stil": "Rubrik3", "titel": "FB63b. Vegetation", "variant": ""}
+{"art": "kodad", "id": "N0352", "kod": "FB65", "namn": "Stödkonstruktion", "niva": 3, "stil": "Rubrik3", "titel": "FB65. Stödkonstruktion", "variant": ""}
+{"art": "kodad", "id": "N0353", "kod": "FB65", "namn": "Stödkonstruktion", "niva": 3, "stil": "Rubrik3", "titel": "FB65. Stödkonstruktion/ Stödmur", "variant": "/ Stödmur"}
+{"art": "kodad", "id": "N0354", "kod": "FB65", "namn": "Stödkonstruktion", "niva": 3, "stil": "Rubrik3", "titel": "FB65. Stödkonstruktion/ Stenfylld nätkorg", "variant": "/ Stenfylld nätkorg"}
+{"art": "kodad", "id": "N0355", "kod": "FB66", "namn": "Stängsel", "niva": 3, "stil": "Rubrik3", "titel": "FB66. Stängsel", "variant": ""}
+{"art": "kodad", "id": "N0356", "kod": "FB66", "namn": "Stängsel", "niva": 3, "stil": "Rubrik3", "titel": "FB66. Stängsel/ Viltstängsel", "variant": "/ Viltstängsel"}
+{"art": "kodad", "id": "N0357", "kod": "FB66", "namn": "Stängsel", "niva": 3, "stil": "Rubrik3", "titel": "FB66. Stängsel/ Personskyddsstängsel", "variant": "/ Personskyddsstängsel"}
+{"art": "kodad", "id": "N0358", "kod": "FB66", "namn": "Stängsel", "niva": 3, "stil": "Rubrik3", "titel": "FB66. Stängsel/ Fallskyddsstängsel", "variant": "/ Fallskyddsstängsel"}
+{"art": "kodad", "id": "N0359", "kod": "FB67", "namn": "Komplettering", "niva": 3, "stil": "Rubrik3", "titel": "FB67. Komplettering", "variant": ""}
+{"art": "kodad", "id": "N0360", "kod": "FB7", "namn": "Avvattningssystem o.d.", "niva": 3, "stil": "Rubrik3", "titel": "FB7. Avvattningssystem o.d.", "variant": ""}
+{"art": "kodad", "id": "N0361", "kod": "FB71", "namn": "Dräneringssystem", "niva": 3, "stil": "Rubrik3", "titel": "FB71. Dräneringssystem", "variant": ""}
+{"art": "kodad", "id": "N0362", "kod": "FB71b", "namn": "Dräneringsledning", "niva": 3, "stil": "Rubrik3", "titel": "FB71b. Dräneringsledning", "variant": ""}
+{"art": "kodad", "id": "N0363", "kod": "FB71c", "namn": "Dräneringsbrunn", "niva": 3, "stil": "Rubrik3", "titel": "FB71c. Dräneringsbrunn", "variant": ""}
+{"art": "kodad", "id": "N0364", "kod": "FB72", "namn": "Dagvattensystem", "niva": 3, "stil": "Rubrik3", "titel": "FB72. Dagvattensystem", "variant": ""}
+{"art": "kodad", "id": "N0365", "kod": "FB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "FB72b. Ledning", "variant": ""}
+{"art": "kodad", "id": "N0366", "kod": "FB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "FB72b. Ledning/ Självfallsledning", "variant": "/ Självfallsledning"}
+{"art": "kodad", "id": "N0367", "kod": "FB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "FB72b. Ledning/ Tryckledning", "variant": "/ Tryckledning"}
+{"art": "kodad", "id": "N0368", "kod": "FB72b", "namn": "Ledning", "niva": 3, "stil": "Rubrik3", "titel": "FB72b. Ledning/ Skyddsledning", "variant": "/ Skyddsledning"}
+{"art": "kodad", "id": "N0369", "kod": "FB72bb", "namn": "Galler", "niva": 3, "stil": "Rubrik3", "titel": "FB72bb. Galler", "variant": ""}
+{"art": "kodad", "id": "N0370", "kod": "FB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "FB72c. Brunn", "variant": ""}
+{"art": "kodad", "id": "N0371", "kod": "FB72c", "namn": "Brunn/Dagvattenbrunn", "niva": 3, "stil": "Rubrik3", "titel": "FB72c. Brunn/Dagvattenbrunn", "variant": ""}
+{"art": "kodad", "id": "N0372", "kod": "FB72c", "namn": "Brunn/Nedstigningsbrunn", "niva": 3, "stil": "Rubrik3", "titel": "FB72c. Brunn/Nedstigningsbrunn", "variant": ""}
+{"art": "kodad", "id": "N0373", "kod": "FB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "FB72c. Brunn/ Tillsynsbrunn", "variant": "/ Tillsynsbrunn"}
+{"art": "kodad", "id": "N0374", "kod": "FB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "FB72c. Brunn/ Specialbrunn", "variant": "/ Specialbrunn"}
+{"art": "kodad", "id": "N0375", "kod": "FB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "FB72c. Brunn/ Infiltrationsbrunn", "variant": "/ Infiltrationsbrunn"}
+{"art": "kodad", "id": "N0376", "kod": "FB72c", "namn": "Brunn", "niva": 3, "stil": "Rubrik3", "titel": "FB72c. Brunn/ Brunn med avskiljande funktion", "variant": "/ Brunn med avskiljande funktion"}
+{"art": "kodad", "id": "N0377", "kod": "FB72d", "namn": "Dagvattenmagasin", "niva": 3, "stil": "Rubrik3", "titel": "FB72d. Dagvattenmagasin", "variant": ""}
+{"art": "kodad", "id": "N0378", "kod": "FB72d", "namn": "Dagvattenmagasin", "niva": 3, "stil": "Rubrik3", "titel": "FB72d. Dagvattenmagasin/ Öppen damm", "variant": "/ Öppen damm"}
+{"art": "kodad", "id": "N0379", "kod": "FB72d", "namn": "Dagvattenmagasin", "niva": 3, "stil": "Rubrik3", "titel": "FB72d. Dagvattenmagasin/ Underjordiskt magasin", "variant": "/ Underjordiskt magasin"}
+{"art": "kodad", "id": "N0380", "kod": "FB72e", "namn": "Öppen dagvattenanläggning, markfilter, översilningsyta", "niva": 3, "stil": "Rubrik3", "titel": "FB72e. Öppen dagvattenanläggning, markfilter, översilningsyta", "variant": ""}
+{"art": "kodad", "id": "N0381", "kod": "FB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "FB73. Dike", "variant": ""}
+{"art": "kodad", "id": "N0382", "kod": "FB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "FB73. Dike/ Skärningsdike", "variant": "/ Skärningsdike"}
+{"art": "kodad", "id": "N0383", "kod": "FB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "FB73. Dike/ Bankdike", "variant": "/ Bankdike"}
+{"art": "kodad", "id": "N0384", "kod": "FB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "FB73. Dike/ Överdike", "variant": "/ Överdike"}
+{"art": "kodad", "id": "N0385", "kod": "FB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "FB73. Dike/ Bankettdike", "variant": "/ Bankettdike"}
+{"art": "kodad", "id": "N0386", "kod": "FB73", "namn": "Dike", "niva": 3, "stil": "Rubrik3", "titel": "FB73. Dike/ Terrängdike", "variant": "/ Terrängdike"}
+{"art": "kodad", "id": "N0387", "kod": "FB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74. Trumma", "variant": ""}
+{"art": "kodad", "id": "N0388", "kod": "FB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74. Trumma// XXXX", "variant": "// XXXX"}
+{"art": "kodad", "id": "N0389", "kod": "FB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74. Trumma/ Trumma under bana", "variant": "/ Trumma under bana"}
+{"art": "kodad", "id": "N0390", "kod": "FB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74. Trumma/ Trumma under bana // XX", "variant": "/ Trumma under bana // XX"}
+{"art": "kodad", "id": "N0391", "kod": "FB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74. Trumma/ Trumma under bana // XX", "variant": "/ Trumma under bana // XX"}
+{"art": "kodad", "id": "N0392", "kod": "FB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74. Trumma/ Trumma under bana// XX", "variant": "/ Trumma under bana// XX"}
+{"art": "kodad", "id": "N0393", "kod": "FB74", "namn": "Trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74. Trumma/ Torrtrumma", "variant": "/ Torrtrumma"}
+{"art": "kodad", "id": "N0394", "kod": "FB74b", "namn": "Galler", "niva": 3, "stil": "Rubrik3", "titel": "FB74b. Galler", "variant": ""}
+{"art": "kodad", "id": "N0395", "kod": "FB74c", "namn": "Brunn på trumma", "niva": 3, "stil": "Rubrik3", "titel": "FB74c. Brunn på trumma", "variant": ""}
+{"art": "kodad", "id": "N0396", "kod": "FB75", "namn": "Pumpanläggning", "niva": 3, "stil": "Rubrik3", "titel": "FB75. Pumpanläggning", "variant": ""}
+{"art": "kodad", "id": "N0397", "kod": "FB75", "namn": "Pumpanläggning", "niva": 3, "stil": "Rubrik3", "titel": "FB75. Pumpanläggning// XX", "variant": "// XX"}
+{"art": "kodad", "id": "N0398", "kod": "FC", "namn": "Signalsystem", "niva": 2, "stil": "Rubrik2", "titel": "FC. Signalsystem", "variant": ""}
+{"art": "kodad", "id": "N0399", "kod": "FC1", "namn": "Manöversystem", "niva": 3, "stil": "Rubrik3", "titel": "FC1. Manöversystem", "variant": ""}
+{"art": "kodad", "id": "N0400", "kod": "FC11", "namn": "Fjärrmanöversystem", "niva": 3, "stil": "Rubrik3", "titel": "FC11. Fjärrmanöversystem", "variant": ""}
+{"art": "kodad", "id": "N0401", "kod": "FC11b", "namn": "Understation", "niva": 3, "stil": "Rubrik3", "titel": "FC11b. Understation", "variant": ""}
+{"art": "kodad", "id": "N0402", "kod": "FC12", "namn": "Lokalmanöversystem", "niva": 3, "stil": "Rubrik3", "titel": "FC12. Lokalmanöversystem", "variant": ""}
+{"art": "kodad", "id": "N0403", "kod": "FC13", "namn": "Teknikerterminal", "niva": 3, "stil": "Rubrik3", "titel": "FC13. Teknikerterminal", "variant": ""}
+{"art": "kodad", "id": "N0404", "kod": "FC2", "namn": "Signalställverk för driftplats och linje", "niva": 3, "stil": "Rubrik3", "titel": "FC2. Signalställverk för driftplats och linje", "variant": ""}
+{"art": "kodad", "id": "N0405", "kod": "FC21", "namn": "Kraftanslutning", "niva": 3, "stil": "Rubrik3", "titel": "FC21. Kraftanslutning", "variant": ""}
+{"art": "kodad", "id": "N0406", "kod": "FC22", "namn": "Transmission", "niva": 3, "stil": "Rubrik3", "titel": "FC22. Transmission", "variant": ""}
+{"art": "kodad", "id": "N0407", "kod": "FC23", "namn": "Datorbaserat system", "niva": 3, "stil": "Rubrik3", "titel": "FC23. Datorbaserat system", "variant": ""}
+{"art": "kodad", "id": "N0408", "kod": "FC24", "namn": "Reläbaserat system", "niva": 3, "stil": "Rubrik3", "titel": "FC24. Reläbaserat system", "variant": ""}
+{"art": "kodad", "id": "N0409", "kod": "FC3", "namn": "Positioneringssystem", "niva": 3, "stil": "Rubrik3", "titel": "FC3. Positioneringssystem", "variant": ""}
+{"art": "kodad", "id": "N0410", "kod": "FC31", "namn": "Kraft", "niva": 3, "stil": "Rubrik3", "titel": "FC31. Kraft", "variant": ""}
+{"art": "kodad", "id": "N0411", "kod": "FC32", "namn": "Transmission", "niva": 3, "stil": "Rubrik3", "titel": "FC32. Transmission", "variant": ""}
+{"art": "kodad", "id": "N0412", "kod": "FC33", "namn": "Likströmsspårledning", "niva": 3, "stil": "Rubrik3", "titel": "FC33. Likströmsspårledning", "variant": ""}
+{"art": "kodad", "id": "N0413", "kod": "FC33b", "namn": "Spårledningsskåp", "niva": 3, "stil": "Rubrik3", "titel": "FC33b. Spårledningsskåp", "variant": ""}
+{"art": "kodad", "id": "N0414", "kod": "FC33c", "namn": "Förbindning", "niva": 3, "stil": "Rubrik3", "titel": "FC33c. Förbindning", "variant": ""}
+{"art": "kodad", "id": "N0415", "kod": "FC34", "namn": "Växelströmsspårledning", "niva": 3, "stil": "Rubrik3", "titel": "FC34. Växelströmsspårledning", "variant": ""}
+{"art": "kodad", "id": "N0416", "kod": "FC35", "namn": "Axelräknare", "niva": 3, "stil": "Rubrik3", "titel": "FC35. Axelräknare", "variant": ""}
+{"art": "kodad", "id": "N0417", "kod": "FC36", "namn": "Rälskontakt", "niva": 3, "stil": "Rubrik3", "titel": "FC36. Rälskontakt", "variant": ""}
+{"art": "kodad", "id": "N0418", "kod": "FC4", "namn": "Spårväxel och spårspärr", "niva": 3, "stil": "Rubrik3", "titel": "FC4. Spårväxel och spårspärr", "variant": ""}
+{"art": "kodad", "id": "N0419", "kod": "FC41", "namn": "Kraft", "niva": 3, "stil": "Rubrik3", "titel": "FC41. Kraft", "variant": ""}
+{"art": "kodad", "id": "N0420", "kod": "FC42", "namn": "Växelskåp", "niva": 3, "stil": "Rubrik3", "titel": "FC42. Växelskåp", "variant": ""}
+{"art": "kodad", "id": "N0421", "kod": "FC42b", "namn": "Lokalställare", "niva": 3, "stil": "Rubrik3", "titel": "FC42b. Lokalställare", "variant": ""}
+{"art": "kodad", "id": "N0422", "kod": "FC42c", "namn": "Reservmanöverutrustning", "niva": 3, "stil": "Rubrik3", "titel": "FC42c. Reservmanöverutrustning", "variant": ""}
+{"art": "kodad", "id": "N0423", "kod": "FC42d", "namn": "Handvevsutrustning", "niva": 3, "stil": "Rubrik3", "titel": "FC42d. Handvevsutrustning", "variant": ""}
+{"art": "kodad", "id": "N0424", "kod": "FC43", "namn": "Växelkomponent", "niva": 3, "stil": "Rubrik3", "titel": "FC43. Växelkomponent", "variant": ""}
+{"art": "kodad", "id": "N0425", "kod": "FC43b", "namn": "Växeldriv", "niva": 3, "stil": "Rubrik3", "titel": "FC43b. Växeldriv", "variant": ""}
+{"art": "kodad", "id": "N0426", "kod": "FC43c", "namn": "Tungkontrollkontakt", "niva": 3, "stil": "Rubrik3", "titel": "FC43c. Tungkontrollkontakt", "variant": ""}
+{"art": "kodad", "id": "N0427", "kod": "FC5", "namn": "Signal och tavla", "niva": 3, "stil": "Rubrik3", "titel": "FC5. Signal och tavla", "variant": ""}
+{"art": "kodad", "id": "N0428", "kod": "FC51", "namn": "Signal för tåg", "niva": 3, "stil": "Rubrik3", "titel": "FC51. Signal för tåg", "variant": ""}
+{"art": "kodad", "id": "N0429", "kod": "FC51b", "namn": "Signalpunktstavla", "niva": 3, "stil": "Rubrik3", "titel": "FC51b Signalpunktstavla", "variant": ""}
+{"art": "kodad", "id": "N0430", "kod": "FC51c", "namn": "Huvudljussignal och fristående försignal", "niva": 3, "stil": "Rubrik3", "titel": "FC51c. Huvudljussignal och fristående försignal", "variant": ""}
+{"art": "kodad", "id": "N0431", "kod": "FC51d", "namn": "Huvuddvärgsignal", "niva": 3, "stil": "Rubrik3", "titel": "FC51d. Huvuddvärgsignal", "variant": ""}
+{"art": "kodad", "id": "N0432", "kod": "FC51e", "namn": "Slutpunktsstopplykta", "niva": 3, "stil": "Rubrik3", "titel": "FC51e Slutpunktsstopplykta", "variant": ""}
+{"art": "kodad", "id": "N0433", "kod": "FC51f", "namn": "Repetersignal", "niva": 3, "stil": "Rubrik3", "titel": "FC51f. Repetersignal", "variant": ""}
+{"art": "kodad", "id": "N0434", "kod": "FC51g", "namn": "Tavla", "niva": 3, "stil": "Rubrik3", "titel": "FC51g. Tavla", "variant": ""}
+{"art": "kodad", "id": "N0435", "kod": "FC52", "namn": "Signal för växling", "niva": 3, "stil": "Rubrik3", "titel": "FC52. Signal för växling", "variant": ""}
+{"art": "kodad", "id": "N0436", "kod": "FC52b", "namn": "Dvärgsignal", "niva": 3, "stil": "Rubrik3", "titel": "FC52b. Dvärgsignal", "variant": ""}
+{"art": "kodad", "id": "N0437", "kod": "FC52c", "namn": "Tavla", "niva": 3, "stil": "Rubrik3", "titel": "FC52c. Tavla", "variant": ""}
+{"art": "kodad", "id": "N0438", "kod": "FC53", "namn": "Signal, övrigt", "niva": 3, "stil": "Rubrik3", "titel": "FC53. Signal, övrigt", "variant": ""}
+{"art": "kodad", "id": "N0439", "kod": "FC53b", "namn": "Stopplykta", "niva": 3, "stil": "Rubrik3", "titel": "FC53b. Stopplykta", "variant": ""}
+{"art": "kodad", "id": "N0440", "kod": "FC53c", "namn": "Signal för vägskyddsanläggning", "niva": 3, "stil": "Rubrik3", "titel": "FC53c. Signal för vägskyddsanläggning", "variant": ""}
+{"art": "kodad", "id": "N0441", "kod": "FC53d", "namn": "Brosignal", "niva": 3, "stil": "Rubrik3", "titel": "FC53d. Brosignal", "variant": ""}
+{"art": "kodad", "id": "N0442", "kod": "FC53e", "namn": "Riktningssignal", "niva": 3, "stil": "Rubrik3", "titel": "FC53e. Riktningssignal", "variant": ""}
+{"art": "kodad", "id": "N0443", "kod": "FC53f", "namn": "Skredvarningsstopplykta", "niva": 3, "stil": "Rubrik3", "titel": "FC53f. Skredvarningsstopplykta", "variant": ""}
+{"art": "kodad", "id": "N0444", "kod": "FC54", "namn": "ATC/ETCS", "niva": 3, "stil": "Rubrik3", "titel": "FC54. ATC/ETCS", "variant": ""}
+{"art": "kodad", "id": "N0445", "kod": "FC54b", "namn": "ATC-kodare", "niva": 3, "stil": "Rubrik3", "titel": "FC54b. ATC-kodare", "variant": ""}
+{"art": "kodad", "id": "N0446", "kod": "FC54c", "namn": "ATC-balis", "niva": 3, "stil": "Rubrik3", "titel": "FC54c. ATC-balis", "variant": ""}
+{"art": "kodad", "id": "N0447", "kod": "FC54d", "namn": "ETCS-kodare", "niva": 3, "stil": "Rubrik3", "titel": "FC54d ETCS-kodare", "variant": ""}
+{"art": "kodad", "id": "N0448", "kod": "FC54e", "namn": "ETCS-balis", "niva": 3, "stil": "Rubrik3", "titel": "FC54e ETCS-balis", "variant": ""}
+{"art": "kodad", "id": "N0449", "kod": "FC55", "namn": "Signaltransformatorskåp", "niva": 3, "stil": "Rubrik3", "titel": "FC55. Signaltransformatorskåp", "variant": ""}
+{"art": "kodad", "id": "N0450", "kod": "FC56", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FC56. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0451", "kod": "FC57", "namn": "Tavla", "niva": 3, "stil": "Rubrik3", "titel": "FC57. Tavla", "variant": ""}
+{"art": "kodad", "id": "N0452", "kod": "FC6", "namn": "Vägskyddsanläggning", "niva": 3, "stil": "Rubrik3", "titel": "FC6. Vägskyddsanläggning", "variant": ""}
+{"art": "kodad", "id": "N0453", "kod": "FD", "namn": "Kraftförsörjning Järnväg", "niva": 2, "stil": "Rubrik2", "titel": "FD. Kraftförsörjning Järnväg", "variant": ""}
+{"art": "kodad", "id": "N0454", "kod": "FD", "namn": "Kraftförsörjning Järnväg", "niva": 3, "stil": "Rubrik3", "titel": "FD. Kraftförsörjning Järnväg/ Omformarstation", "variant": "/ Omformarstation"}
+{"art": "kodad", "id": "N0455", "kod": "FD", "namn": "Kraftförsörjning Järnväg", "niva": 3, "stil": "Rubrik3", "titel": "FD. Kraftförsörjning Järnväg/ Transformatorstation", "variant": "/ Transformatorstation"}
+{"art": "kodad", "id": "N0456", "kod": "FD", "namn": "Kraftförsörjning Järnväg", "niva": 3, "stil": "Rubrik3", "titel": "FD. Kraftförsörjning Järnväg/ Kopplingscentral", "variant": "/ Kopplingscentral"}
+{"art": "kodad", "id": "N0457", "kod": "FD", "namn": "Kraftförsörjning Järnväg", "niva": 3, "stil": "Rubrik3", "titel": "FD. Kraftförsörjning Järnväg/ Sektioneringsstation", "variant": "/ Sektioneringsstation"}
+{"art": "kodad", "id": "N0458", "kod": "FD", "namn": "Kraftförsörjning Järnväg", "niva": 3, "stil": "Rubrik3", "titel": "FD. Kraftförsörjning Järnväg/ Fördelningsstation", "variant": "/ Fördelningsstation"}
+{"art": "kodad", "id": "N0459", "kod": "FD", "namn": "Kraftförsörjning Järnväg", "niva": 3, "stil": "Rubrik3", "titel": "FD. Kraftförsörjning Järnväg/ Inomhusbetjänad nätstation", "variant": "/ Inomhusbetjänad nätstation"}
+{"art": "kodad", "id": "N0460", "kod": "FD1", "namn": "Frekvensomformare", "niva": 3, "stil": "Rubrik3", "titel": "FD1. Frekvensomformare", "variant": ""}
+{"art": "kodad", "id": "N0461", "kod": "FD1", "namn": "Frekvensomformare", "niva": 3, "stil": "Rubrik3", "titel": "FD1. Frekvensomformare/ Roterande omformare", "variant": "/ Roterande omformare"}
+{"art": "kodad", "id": "N0462", "kod": "FD1", "namn": "Frekvensomformare", "niva": 3, "stil": "Rubrik3", "titel": "FD1. Frekvensomformare/ Statiska omriktare", "variant": "/ Statiska omriktare"}
+{"art": "kodad", "id": "N0463", "kod": "FD2", "namn": "Stationskontrollsystem", "niva": 3, "stil": "Rubrik3", "titel": "FD2. Stationskontrollsystem", "variant": ""}
+{"art": "kodad", "id": "N0464", "kod": "FD21", "namn": "Stationskontrollsystem", "niva": 3, "stil": "Rubrik3", "titel": "FD21. Stationskontrollsystem/ Större anläggningar", "variant": "/ Större anläggningar"}
+{"art": "kodad", "id": "N0465", "kod": "FD21", "namn": "Stationskontrollsystem", "niva": 3, "stil": "Rubrik3", "titel": "FD21. Stationskontrollsystem/ Enklare anläggningar", "variant": "/ Enklare anläggningar"}
+{"art": "kodad", "id": "N0466", "kod": "FD3", "namn": "Mark och byggnad", "niva": 3, "stil": "Rubrik3", "titel": "FD3. Mark och byggnad", "variant": ""}
+{"art": "kodad", "id": "N0467", "kod": "FD31", "namn": "Hägnad", "niva": 3, "stil": "Rubrik3", "titel": "FD31. Hägnad", "variant": ""}
+{"art": "kodad", "id": "N0468", "kod": "FD32", "namn": "Områdesstängsel", "niva": 3, "stil": "Rubrik3", "titel": "FD32. Områdesstängsel", "variant": ""}
+{"art": "kodad", "id": "N0469", "kod": "FD33", "namn": "Filtergårdsstängsel", "niva": 3, "stil": "Rubrik3", "titel": "FD33. Filtergårdsstängsel", "variant": ""}
+{"art": "kodad", "id": "N0470", "kod": "FD34", "namn": "Grindar", "niva": 3, "stil": "Rubrik3", "titel": "FD34. Grindar", "variant": ""}
+{"art": "kodad", "id": "N0471", "kod": "FD4", "namn": "Elkraftmatning", "niva": 3, "stil": "Rubrik3", "titel": "FD4. Elkraftmatning", "variant": ""}
+{"art": "kodad", "id": "N0472", "kod": "FD41", "namn": "Elkraftmatning 6-130kV 50Hz", "niva": 3, "stil": "Rubrik3", "titel": "FD41. Elkraftmatning 6-130kV 50Hz", "variant": ""}
+{"art": "kodad", "id": "N0473", "kod": "FD42", "namn": "Elkraftmatning ≤1000V 50Hz", "niva": 3, "stil": "Rubrik3", "titel": "FD42. Elkraftmatning ≤1000V 50Hz", "variant": ""}
+{"art": "kodad", "id": "N0474", "kod": "FD5", "namn": "Lokalkraftsystem", "niva": 3, "stil": "Rubrik3", "titel": "FD5. Lokalkraftsystem", "variant": ""}
+{"art": "kodad", "id": "N0475", "kod": "FD51", "namn": "Lågspänningsställverk", "niva": 3, "stil": "Rubrik3", "titel": "FD51. Lågspänningsställverk", "variant": ""}
+{"art": "kodad", "id": "N0476", "kod": "FD52", "namn": "Lågspänningscentral", "niva": 3, "stil": "Rubrik3", "titel": "FD52. Lågspänningscentral", "variant": ""}
+{"art": "kodad", "id": "N0477", "kod": "FD53", "namn": "Likspänningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FD53. Likspänningssystem", "variant": ""}
+{"art": "kodad", "id": "N0478", "kod": "FD54", "namn": "DC-fördelning", "niva": 3, "stil": "Rubrik3", "titel": "FD54. DC-fördelning", "variant": ""}
+{"art": "kodad", "id": "N0479", "kod": "FD6", "namn": "Ställverk 10–132 kV", "niva": 3, "stil": "Rubrik3", "titel": "FD6. Ställverk 10–132 kV", "variant": ""}
+{"art": "kodad", "id": "N0480", "kod": "FD61", "namn": "Högspänningsställverk", "niva": 3, "stil": "Rubrik3", "titel": "FD61. Högspänningsställverk", "variant": ""}
+{"art": "kodad", "id": "N0481", "kod": "FD61", "namn": "Högspänningsställverk", "niva": 3, "stil": "Rubrik3", "titel": "FD61. Högspänningsställverk/ 130kV 16,7Hz", "variant": "/ 130kV 16,7Hz"}
+{"art": "kodad", "id": "N0482", "kod": "FD61", "namn": "Högspänningsställverk", "niva": 3, "stil": "Rubrik3", "titel": "FD61. Högspänningsställverk/ 70-130kV 50Hz", "variant": "/ 70-130kV 50Hz"}
+{"art": "kodad", "id": "N0483", "kod": "FD.62", "namn": "Mellanspänningsställverk", "niva": 3, "stil": "Rubrik3", "titel": "FD.62 Mellanspänningsställverk", "variant": ""}
+{"art": "kodad", "id": "N0484", "kod": "FD.62", "namn": "Mellanspänningsställverk", "niva": 3, "stil": "Rubrik3", "titel": "FD.62 Mellanspänningsställverk/ 10-20kV 50Hz", "variant": "/ 10-20kV 50Hz"}
+{"art": "kodad", "id": "N0485", "kod": "FD7", "namn": "Åskskyddsystem", "niva": 3, "stil": "Rubrik3", "titel": "FD7. Åskskyddsystem", "variant": ""}
+{"art": "kodad", "id": "N0486", "kod": "FD8", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FD8. Transformator", "variant": ""}
+{"art": "kodad", "id": "N0487", "kod": "FD8", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FD8. Transformator/ Lokaltransformator 50Hz", "variant": "/ Lokaltransformator 50Hz"}
+{"art": "kodad", "id": "N0488", "kod": "FD8", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FD8. Transformator/ Hjälpkrafttransformator 50Hz", "variant": "/ Hjälpkrafttransformator 50Hz"}
+{"art": "kodad", "id": "N0489", "kod": "FD8", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FD8. Transformator/ Krafttransformator för statiska omriktare", "variant": "/ Krafttransformator för statiska omriktare"}
+{"art": "kodad", "id": "N0490", "kod": "FD8", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FD8. Transformator/ Krafttransformator 130/16 kV 16,7 Hz", "variant": "/ Krafttransformator 130/16 kV 16,7 Hz"}
+{"art": "kodad", "id": "N0491", "kod": "FD9", "namn": "Anslutning", "niva": 3, "stil": "Rubrik3", "titel": "FD9. Anslutning", "variant": ""}
+{"art": "kodad", "id": "N0492", "kod": "FD9", "namn": "Anslutning", "niva": 3, "stil": "Rubrik3", "titel": "FD9. Anslutning/ Hjälpkraftnät 10-20kV 50Hz", "variant": "/ Hjälpkraftnät 10-20kV 50Hz"}
+{"art": "kodad", "id": "N0493", "kod": "FD9", "namn": "Anslutning", "niva": 3, "stil": "Rubrik3", "titel": "FD9. Anslutning/ Kontaktledning 15-30kV 16,7Hz", "variant": "/ Kontaktledning 15-30kV 16,7Hz"}
+{"art": "kodad", "id": "N0494", "kod": "FD9", "namn": "Anslutning", "niva": 3, "stil": "Rubrik3", "titel": "FD9. Anslutning/ Kraftledningsnät 130kV 16,7Hz", "variant": "/ Kraftledningsnät 130kV 16,7Hz"}
+{"art": "kodad", "id": "N0495", "kod": "FE", "namn": "Elsystem", "niva": 2, "stil": "Rubrik2", "titel": "FE. Elsystem", "variant": ""}
+{"art": "kodad", "id": "N0496", "kod": "FE1", "namn": "Manöversystem", "niva": 3, "stil": "Rubrik3", "titel": "FE1. Manöversystem", "variant": ""}
+{"art": "kodad", "id": "N0497", "kod": "FE1", "namn": "Manöversystem", "niva": 3, "stil": "Rubrik3", "titel": "FE1. Manöversystem/ Externt", "variant": "/ Externt"}
+{"art": "kodad", "id": "N0498", "kod": "FE11", "namn": "GELD", "niva": 3, "stil": "Rubrik3", "titel": "FE11. GELD", "variant": ""}
+{"art": "kodad", "id": "N0499", "kod": "FE12", "namn": "Fjärrstyrning elobjekt", "niva": 3, "stil": "Rubrik3", "titel": "FE12. Fjärrstyrning elobjekt", "variant": ""}
+{"art": "kodad", "id": "N0500", "kod": "FE3", "namn": "Hjälpkraftledning (BL)", "niva": 3, "stil": "Rubrik3", "titel": "FE3. Hjälpkraftledning (BL)", "variant": ""}
+{"art": "kodad", "id": "N0501", "kod": "FE31", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FE31. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0502", "kod": "FE32", "namn": "Kopplingsanordning", "niva": 3, "stil": "Rubrik3", "titel": "FE32. Kopplingsanordning", "variant": ""}
+{"art": "kodad", "id": "N0503", "kod": "FE32b", "namn": "Frånskiljare", "niva": 3, "stil": "Rubrik3", "titel": "FE32b. Frånskiljare", "variant": ""}
+{"art": "kodad", "id": "N0504", "kod": "FE32c", "namn": "Lastfrånskiljare", "niva": 3, "stil": "Rubrik3", "titel": "FE32c. Lastfrånskiljare", "variant": ""}
+{"art": "kodad", "id": "N0505", "kod": "FE32d", "namn": "Manöveranordning", "niva": 3, "stil": "Rubrik3", "titel": "FE32d. Manöveranordning", "variant": ""}
+{"art": "kodad", "id": "N0506", "kod": "FE33", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FE33. Transformator", "variant": ""}
+{"art": "kodad", "id": "N0507", "kod": "FE33", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FE33. Transformator/ 11-22/0,42 kV", "variant": "/ 11-22/0,42 kV"}
+{"art": "kodad", "id": "N0508", "kod": "FE33", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FE33. Transformator/ 11-22/0,24 kV", "variant": "/ 11-22/0,24 kV"}
+{"art": "kodad", "id": "N0509", "kod": "FE33", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FE33. Transformator/ 11-22/0,42/0,24 kV", "variant": "/ 11-22/0,42/0,24 kV"}
+{"art": "kodad", "id": "N0510", "kod": "FE4", "namn": "Kontaktledningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE4. Kontaktledningssystem", "variant": ""}
+{"art": "kodad", "id": "N0511", "kod": "FE41", "namn": "Friledning", "niva": 3, "stil": "Rubrik3", "titel": "FE41. Friledning", "variant": ""}
+{"art": "kodad", "id": "N0512", "kod": "FE41b", "namn": "Kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE41b. Kontaktledning", "variant": ""}
+{"art": "kodad", "id": "N0513", "kod": "FE41b", "namn": "Kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE41b. Kontaktledning/ Hängverk", "variant": "/ Hängverk"}
+{"art": "kodad", "id": "N0514", "kod": "FE41b", "namn": "Kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE41b. Kontaktledning/ Kontaktskena", "variant": "/ Kontaktskena"}
+{"art": "kodad", "id": "N0515", "kod": "FE41c", "namn": "Återledning (Å/2Å)", "niva": 3, "stil": "Rubrik3", "titel": "FE41c. Återledning (Å/2Å)", "variant": ""}
+{"art": "kodad", "id": "N0516", "kod": "FE41d", "namn": "Förbiledning (F)", "niva": 3, "stil": "Rubrik3", "titel": "FE41d. Förbiledning (F)", "variant": ""}
+{"art": "kodad", "id": "N0517", "kod": "FE41e", "namn": "Förstärkningsledning (Fö)", "niva": 3, "stil": "Rubrik3", "titel": "FE41e. Förstärkningsledning (Fö)", "variant": ""}
+{"art": "kodad", "id": "N0518", "kod": "FE41f", "namn": "Matarledning (ML)", "niva": 3, "stil": "Rubrik3", "titel": "FE41f. Matarledning (ML)", "variant": ""}
+{"art": "kodad", "id": "N0519", "kod": "FE41g", "namn": "AT-matarledning (ATL)", "niva": 3, "stil": "Rubrik3", "titel": "FE41g. AT-matarledning (ATL)", "variant": ""}
+{"art": "kodad", "id": "N0520", "kod": "FE41h", "namn": "Jordlina (JL)", "niva": 3, "stil": "Rubrik3", "titel": "FE41h. Jordlina (JL)", "variant": ""}
+{"art": "kodad", "id": "N0521", "kod": "FE42", "namn": "Upphängningsanordning", "niva": 3, "stil": "Rubrik3", "titel": "FE42. Upphängningsanordning", "variant": ""}
+{"art": "kodad", "id": "N0522", "kod": "FE42b", "namn": "Utliggare", "niva": 3, "stil": "Rubrik3", "titel": "FE42b. Utliggare", "variant": ""}
+{"art": "kodad", "id": "N0523", "kod": "FE42c", "namn": "Upphängning av återledning (Å/2Å)", "niva": 3, "stil": "Rubrik3", "titel": "FE42c. Upphängning av återledning (Å/2Å)", "variant": ""}
+{"art": "kodad", "id": "N0524", "kod": "FE42d", "namn": "Upphängning av förbiledning (F)", "niva": 3, "stil": "Rubrik3", "titel": "FE42d. Upphängning av förbiledning (F)", "variant": ""}
+{"art": "kodad", "id": "N0525", "kod": "FE42e", "namn": "Upphängning av förstärkningsledning (Fö)", "niva": 3, "stil": "Rubrik3", "titel": "FE42e. Upphängning av förstärkningsledning (Fö)", "variant": ""}
+{"art": "kodad", "id": "N0526", "kod": "FE42f", "namn": "Upphängning av matarledning (ML)", "niva": 3, "stil": "Rubrik3", "titel": "FE42f. Upphängning av matarledning (ML)", "variant": ""}
+{"art": "kodad", "id": "N0527", "kod": "FE42g", "namn": "Upphängning av AT-matarledning (ATL)", "niva": 3, "stil": "Rubrik3", "titel": "FE42g. Upphängning av AT-matarledning (ATL)", "variant": ""}
+{"art": "kodad", "id": "N0528", "kod": "FE42h", "namn": "Upphängning av jordlina (JL)", "niva": 3, "stil": "Rubrik3", "titel": "FE42h. Upphängning av jordlina (JL)", "variant": ""}
+{"art": "kodad", "id": "N0529", "kod": "FE43", "namn": "Avspänning", "niva": 3, "stil": "Rubrik3", "titel": "FE43. Avspänning", "variant": ""}
+{"art": "kodad", "id": "N0530", "kod": "FE43b", "namn": "Avspänning av kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE43b. Avspänning av kontaktledning", "variant": ""}
+{"art": "kodad", "id": "N0531", "kod": "FE43b", "namn": "Avspänning av kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE43b. Avspänning av kontaktledning/ Viktavspänning", "variant": "/ Viktavspänning"}
+{"art": "kodad", "id": "N0532", "kod": "FE43b", "namn": "Avspänning av kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE43b. Avspänning av kontaktledning/ Fastavspänning", "variant": "/ Fastavspänning"}
+{"art": "kodad", "id": "N0533", "kod": "FE43b", "namn": "Avspänning av kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE43b. Avspänning av kontaktledning/ Fjäderavspänning", "variant": "/ Fjäderavspänning"}
+{"art": "kodad", "id": "N0534", "kod": "FE43b", "namn": "Avspänning av kontaktledning", "niva": 3, "stil": "Rubrik3", "titel": "FE43b. Avspänning av kontaktledning/ Förankringspunkt", "variant": "/ Förankringspunkt"}
+{"art": "kodad", "id": "N0535", "kod": "FE43c", "namn": "Avspänning av återledning (Å/2Å)", "niva": 3, "stil": "Rubrik3", "titel": "FE43c. Avspänning av återledning (Å/2Å)", "variant": ""}
+{"art": "kodad", "id": "N0536", "kod": "FE43d", "namn": "Avspänning av förbiledning (F)", "niva": 3, "stil": "Rubrik3", "titel": "FE43d. Avspänning av förbiledning (F)", "variant": ""}
+{"art": "kodad", "id": "N0537", "kod": "FE43e", "namn": "Avspänning av förstärkningsledning (Fö)", "niva": 3, "stil": "Rubrik3", "titel": "FE43e. Avspänning av förstärkningsledning (Fö)", "variant": ""}
+{"art": "kodad", "id": "N0538", "kod": "FE43f", "namn": "Avspänning av matarledning (ML)", "niva": 3, "stil": "Rubrik3", "titel": "FE43f. Avspänning av matarledning (ML)", "variant": ""}
+{"art": "kodad", "id": "N0539", "kod": "FE43g", "namn": "Avspänning av AT-matarledning (ATL)", "niva": 3, "stil": "Rubrik3", "titel": "FE43g. Avspänning av AT-matarledning (ATL)", "variant": ""}
+{"art": "kodad", "id": "N0540", "kod": "FE43h", "namn": "Avspänning av jordlina (JL)", "niva": 3, "stil": "Rubrik3", "titel": "FE43h. Avspänning av jordlina (JL)", "variant": ""}
+{"art": "kodad", "id": "N0541", "kod": "FE44", "namn": "Kopplingsanordning", "niva": 3, "stil": "Rubrik3", "titel": "FE44. Kopplingsanordning", "variant": ""}
+{"art": "kodad", "id": "N0542", "kod": "FE44b", "namn": "Frånskiljare", "niva": 3, "stil": "Rubrik3", "titel": "FE44b. Frånskiljare", "variant": ""}
+{"art": "kodad", "id": "N0543", "kod": "FE44c", "namn": "Lastfrånskiljare", "niva": 3, "stil": "Rubrik3", "titel": "FE44c. Lastfrånskiljare", "variant": ""}
+{"art": "kodad", "id": "N0544", "kod": "FE44d", "namn": "Manöveranordning", "niva": 3, "stil": "Rubrik3", "titel": "FE44d. Manöveranordning", "variant": ""}
+{"art": "kodad", "id": "N0545", "kod": "FE45", "namn": "Transformator", "niva": 3, "stil": "Rubrik3", "titel": "FE45. Transformator", "variant": ""}
+{"art": "kodad", "id": "N0546", "kod": "FE45b", "namn": "Sugtransformator", "niva": 3, "stil": "Rubrik3", "titel": "FE45b. Sugtransformator", "variant": ""}
+{"art": "kodad", "id": "N0547", "kod": "FE45c", "namn": "AT-transformator", "niva": 3, "stil": "Rubrik3", "titel": "FE45c. AT-transformator", "variant": ""}
+{"art": "kodad", "id": "N0548", "kod": "FE45d", "namn": "Tågvärmetransformator", "niva": 3, "stil": "Rubrik3", "titel": "FE45d. Tågvärmetransformator", "variant": ""}
+{"art": "kodad", "id": "N0549", "kod": "FE45e", "namn": "Lokvärmetransformator", "niva": 3, "stil": "Rubrik3", "titel": "FE45e. Lokvärmetransformator", "variant": ""}
+{"art": "kodad", "id": "N0550", "kod": "FE45f", "namn": "Övrig 16 2/3 Hz transformator", "niva": 3, "stil": "Rubrik3", "titel": "FE45f. Övrig 16 2/3 Hz transformator", "variant": ""}
+{"art": "kodad", "id": "N0551", "kod": "FE46", "namn": "Bärverk för kontaktledningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE46. Bärverk för kontaktledningssystem", "variant": ""}
+{"art": "kodad", "id": "N0552", "kod": "FE46b", "namn": "Kontaktledningsstolpe", "niva": 3, "stil": "Rubrik3", "titel": "FE46b. Kontaktledningsstolpe", "variant": ""}
+{"art": "kodad", "id": "N0553", "kod": "FE46c", "namn": "Kontaktledningsbrygga", "niva": 3, "stil": "Rubrik3", "titel": "FE46c. Kontaktledningsbrygga", "variant": ""}
+{"art": "kodad", "id": "N0554", "kod": "FE46d", "namn": "Tunnel- och broupphängning", "niva": 3, "stil": "Rubrik3", "titel": "FE46d. Tunnel- och broupphängning", "variant": ""}
+{"art": "kodad", "id": "N0555", "kod": "FE47", "namn": "Fundament till kontaktledningsstolpe", "niva": 3, "stil": "Rubrik3", "titel": "FE47. Fundament till kontaktledningsstolpe", "variant": ""}
+{"art": "kodad", "id": "N0556", "kod": "FE48", "namn": "Övriga objekt i kontaktledningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE48. Övriga objekt i kontaktledningssystem", "variant": ""}
+{"art": "kodad", "id": "N0557", "kod": "FE48b", "namn": "Sektionsisolator", "niva": 3, "stil": "Rubrik3", "titel": "FE48b. Sektionsisolator", "variant": ""}
+{"art": "kodad", "id": "N0558", "kod": "FE48c", "namn": "Skyddsanordning", "niva": 3, "stil": "Rubrik3", "titel": "FE48c. Skyddsanordning", "variant": ""}
+{"art": "kodad", "id": "N0559", "kod": "FE5", "namn": "Stationär kraftförsörjning för tåg", "niva": 3, "stil": "Rubrik3", "titel": "FE5. Stationär kraftförsörjning för tåg", "variant": ""}
+{"art": "kodad", "id": "N0560", "kod": "FE51", "namn": "Stationär kraftförsörjning för tåg, över 400 V", "niva": 3, "stil": "Rubrik3", "titel": "FE51. Stationär kraftförsörjning för tåg, över 400 V", "variant": ""}
+{"art": "kodad", "id": "N0561", "kod": "FE51b", "namn": "Uttagspost", "niva": 3, "stil": "Rubrik3", "titel": "FE51b. Uttagspost", "variant": ""}
+{"art": "kodad", "id": "N0562", "kod": "FE51c", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FE51c. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0563", "kod": "FE52", "namn": "Stationär kraftförsörjning för tåg, upp till 400 V", "niva": 3, "stil": "Rubrik3", "titel": "FE52. Stationär kraftförsörjning för tåg, upp till 400 V", "variant": ""}
+{"art": "kodad", "id": "N0564", "kod": "FE52b", "namn": "Uttagspost", "niva": 3, "stil": "Rubrik3", "titel": "FE52b. Uttagspost", "variant": ""}
+{"art": "kodad", "id": "N0565", "kod": "FE52c", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FE52c. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0566", "kod": "FE6", "namn": "Lågspänningssystem ≤ 1000 V", "niva": 3, "stil": "Rubrik3", "titel": "FE6. Lågspänningssystem ≤ 1000 V", "variant": ""}
+{"art": "kodad", "id": "N0567", "kod": "FE61", "namn": "Eldistributionssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE61. Eldistributionssystem", "variant": ""}
+{"art": "kodad", "id": "N0568", "kod": "FE61b", "namn": "Mellantransformator", "niva": 3, "stil": "Rubrik3", "titel": "FE61b. Mellantransformator", "variant": ""}
+{"art": "kodad", "id": "N0569", "kod": "FE61c", "namn": "Distributionstransformator", "niva": 3, "stil": "Rubrik3", "titel": "FE61c. Distributionstransformator", "variant": ""}
+{"art": "kodad", "id": "N0570", "kod": "FE61d", "namn": "Åskskydd", "niva": 3, "stil": "Rubrik3", "titel": "FE61d. Åskskydd", "variant": ""}
+{"art": "kodad", "id": "N0571", "kod": "FE61e", "namn": "Nätomkopplingsautomatik, favoriserad kraft", "niva": 3, "stil": "Rubrik3", "titel": "FE61e. Nätomkopplingsautomatik, favoriserad kraft", "variant": ""}
+{"art": "kodad", "id": "N0572", "kod": "FE61f", "namn": "Elcentral, lågspänningsställverk", "niva": 3, "stil": "Rubrik3", "titel": "FE61f. Elcentral, lågspänningsställverk", "variant": ""}
+{"art": "kodad", "id": "N0573", "kod": "FE61g", "namn": "Kabelskåp", "niva": 3, "stil": "Rubrik3", "titel": "FE61g. Kabelskåp", "variant": ""}
+{"art": "kodad", "id": "N0574", "kod": "FE61h", "namn": "Eluttag", "niva": 3, "stil": "Rubrik3", "titel": "FE61h. Eluttag", "variant": ""}
+{"art": "kodad", "id": "N0575", "kod": "FE61j", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FE61j. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0576", "kod": "FE62", "namn": "Kraftmatning", "niva": 3, "stil": "Rubrik3", "titel": "FE62. Kraftmatning", "variant": ""}
+{"art": "kodad", "id": "N0577", "kod": "FE62c", "namn": "Ortsnätsanläggning", "niva": 3, "stil": "Rubrik3", "titel": "FE62c. Ortsnätsanläggning", "variant": ""}
+{"art": "kodad", "id": "N0578", "kod": "FE62d", "namn": "Reservkraftaggregat", "niva": 3, "stil": "Rubrik3", "titel": "FE62d. Reservkraftaggregat", "variant": ""}
+{"art": "kodad", "id": "N0579", "kod": "FE63", "namn": "Avbrottsfri kraft", "niva": 3, "stil": "Rubrik3", "titel": "FE63. Avbrottsfri kraft", "variant": ""}
+{"art": "kodad", "id": "N0580", "kod": "FE63b", "namn": "UPS", "niva": 3, "stil": "Rubrik3", "titel": "FE63b. UPS", "variant": ""}
+{"art": "kodad", "id": "N0581", "kod": "FE63c", "namn": "Likspänningssystem ≤ 50 V", "niva": 3, "stil": "Rubrik3", "titel": "FE63c. Likspänningssystem ≤ 50 V", "variant": ""}
+{"art": "kodad", "id": "N0582", "kod": "FE63c", "namn": "Likspänningssystem ≤ 50 V", "niva": 3, "stil": "Rubrik3", "titel": "FE63c. Likspänningssystem ≤ 50 V/ Telesystem", "variant": "/ Telesystem"}
+{"art": "kodad", "id": "N0583", "kod": "FE63c", "namn": "Likspänningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE63c. Likspänningssystem/ Signalsystem", "variant": "/ Signalsystem"}
+{"art": "kodad", "id": "N0584", "kod": "FE63d", "namn": "Rectiverter", "niva": 3, "stil": "Rubrik3", "titel": "FE63d. Rectiverter", "variant": ""}
+{"art": "kodad", "id": "N0585", "kod": "FE63e", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FE63e. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0586", "kod": "FE64", "namn": "Växelvärmeanläggning", "niva": 3, "stil": "Rubrik3", "titel": "FE64. Växelvärmeanläggning", "variant": ""}
+{"art": "kodad", "id": "N0587", "kod": "FE64d", "namn": "Värmeelement", "niva": 3, "stil": "Rubrik3", "titel": "FE64d. Värmeelement", "variant": ""}
+{"art": "kodad", "id": "N0588", "kod": "FE64e", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FE64e. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0589", "kod": "FE7", "namn": "Belysningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE7. Belysningssystem", "variant": ""}
+{"art": "kodad", "id": "N0590", "kod": "FE7", "namn": "Belysningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE7. Belysningssystem// Stationsområde", "variant": "// Stationsområde"}
+{"art": "kodad", "id": "N0591", "kod": "FE7", "namn": "Belysningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE7. Belysningssystem// Spårmiljö", "variant": "// Spårmiljö"}
+{"art": "kodad", "id": "N0592", "kod": "FE7", "namn": "Belysningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE7. Belysningssystem// Teknikhus, kur o.d.", "variant": "// Teknikhus, kur o.d."}
+{"art": "kodad", "id": "N0593", "kod": "FE7", "namn": "Belysningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FE7. Belysningssystem// Områdesbelysning", "variant": "// Områdesbelysning"}
+{"art": "kodad", "id": "N0594", "kod": "FE71", "namn": "Styrsystem för belysning", "niva": 3, "stil": "Rubrik3", "titel": "FE71. Styrsystem för belysning", "variant": ""}
+{"art": "kodad", "id": "N0595", "kod": "FE72", "namn": "Belysningsarmatur", "niva": 3, "stil": "Rubrik3", "titel": "FE72. Belysningsarmatur", "variant": ""}
+{"art": "kodad", "id": "N0596", "kod": "FE73", "namn": "Belysningsstolpe eller -mast.", "niva": 3, "stil": "Rubrik3", "titel": "FE73. Belysningsstolpe eller -mast.", "variant": ""}
+{"art": "kodad", "id": "N0597", "kod": "FE73b", "namn": "Säkringslåda", "niva": 3, "stil": "Rubrik3", "titel": "FE73b. Säkringslåda", "variant": ""}
+{"art": "kodad", "id": "N0598", "kod": "FE74", "namn": "Fundament till belysningsstolpe eller –mast", "niva": 3, "stil": "Rubrik3", "titel": "FE74. Fundament till belysningsstolpe eller –mast", "variant": ""}
+{"art": "kodad", "id": "N0599", "kod": "FE75", "namn": "Kabel", "niva": 3, "stil": "Rubrik3", "titel": "FE75. Kabel", "variant": ""}
+{"art": "kodad", "id": "N0600", "kod": "FF", "namn": "Telesystem", "niva": 2, "stil": "Rubrik2", "titel": "FF. Telesystem", "variant": ""}
+{"art": "kodad", "id": "N0601", "kod": "FF1", "namn": "Transmissionsanläggning", "niva": 3, "stil": "Rubrik3", "titel": "FF1. Transmissionsanläggning", "variant": ""}
+{"art": "kodad", "id": "N0602", "kod": "FF11", "namn": "Transmissionsutrustning", "niva": 3, "stil": "Rubrik3", "titel": "FF11. Transmissionsutrustning", "variant": ""}
+{"art": "kodad", "id": "N0603", "kod": "FF12", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "FF12. Telekabel", "variant": ""}
+{"art": "kodad", "id": "N0604", "kod": "FF12", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "FF12. Telekabel/ Optokabel", "variant": "/ Optokabel"}
+{"art": "kodad", "id": "N0605", "kod": "FF12", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "FF12. Telekabel/ Kopparkabel, MOK", "variant": "/ Kopparkabel, MOK"}
+{"art": "kodad", "id": "N0606", "kod": "FF12", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "FF12. Telekabel/ Lokalt accessnät (utomhus)", "variant": "/ Lokalt accessnät (utomhus)"}
+{"art": "kodad", "id": "N0607", "kod": "FF12", "namn": "Telekabel", "niva": 3, "stil": "Rubrik3", "titel": "FF12. Telekabel/ Fastighetsnät (inomhus)", "variant": "/ Fastighetsnät (inomhus)"}
+{"art": "kodad", "id": "N0608", "kod": "FF2", "namn": "Telefonanläggning.", "niva": 3, "stil": "Rubrik3", "titel": "FF2. Telefonanläggning.", "variant": ""}
+{"art": "kodad", "id": "N0609", "kod": "FF31", "namn": "MobiSIR", "niva": 3, "stil": "Rubrik3", "titel": "FF31. MobiSIR", "variant": ""}
+{"art": "kodad", "id": "N0610", "kod": "FF32", "namn": "Tunnelradio", "niva": 3, "stil": "Rubrik3", "titel": "FF32. Tunnelradio", "variant": ""}
+{"art": "kodad", "id": "N0611", "kod": "FF32b", "namn": "RAKEL", "niva": 3, "stil": "Rubrik3", "titel": "FF32b. RAKEL", "variant": ""}
+{"art": "kodad", "id": "N0612", "kod": "FF32c", "namn": "System för publik operatör", "niva": 3, "stil": "Rubrik3", "titel": "FF32c. System för publik operatör", "variant": ""}
+{"art": "kodad", "id": "N0613", "kod": "FG", "namn": "Anläggningsövervakningssystem", "niva": 2, "stil": "Rubrik2", "titel": "FG. Anläggningsövervakningssystem", "variant": ""}
+{"art": "kodad", "id": "N0614", "kod": "FG1", "namn": "Detektoranläggning", "niva": 3, "stil": "Rubrik3", "titel": "FG1. Detektoranläggning", "variant": ""}
+{"art": "kodad", "id": "N0615", "kod": "FG11", "namn": "Detektoranläggning för tågtrafik", "niva": 3, "stil": "Rubrik3", "titel": "FG11. Detektoranläggning för tågtrafik", "variant": ""}
+{"art": "kodad", "id": "N0616", "kod": "FG12", "namn": "Detektoranläggning för säkerhetsövervakning av tunnel", "niva": 3, "stil": "Rubrik3", "titel": "FG12. Detektoranläggning för säkerhetsövervakning av tunnel", "variant": ""}
+{"art": "kodad", "id": "N0617", "kod": "FG2", "namn": "Kameraövervakning", "niva": 3, "stil": "Rubrik3", "titel": "FG2. Kameraövervakning", "variant": ""}
+{"art": "kodad", "id": "N0618", "kod": "FG3", "namn": "Larm- och passagesystem", "niva": 3, "stil": "Rubrik3", "titel": "FG3. Larm- och passagesystem", "variant": ""}
+{"art": "kodad", "id": "N0619", "kod": "FH", "namn": "Trafikinformationssystem", "niva": 2, "stil": "Rubrik2", "titel": "FH. Trafikinformationssystem", "variant": ""}
+{"art": "kodad", "id": "N0620", "kod": "FH1", "namn": "Högtalarsystem", "niva": 3, "stil": "Rubrik3", "titel": "FH1. Högtalarsystem", "variant": ""}
+{"art": "kodad", "id": "N0621", "kod": "FH2", "namn": "Tidgivningssystem", "niva": 3, "stil": "Rubrik3", "titel": "FH2. Tidgivningssystem", "variant": ""}
+{"art": "kodad", "id": "N0622", "kod": "FH3", "namn": "Dynamisk skyltning", "niva": 3, "stil": "Rubrik3", "titel": "FH3. Dynamisk skyltning", "variant": ""}
+{"art": "kodad", "id": "N0623", "kod": "FH4", "namn": "Prator", "niva": 3, "stil": "Rubrik3", "titel": "FH4. Prator", "variant": ""}
+{"art": "kodad", "id": "N0624", "kod": "FJ", "namn": "Kabelkanalisationssystem", "niva": 2, "stil": "Rubrik2", "titel": "FJ. Kabelkanalisationssystem", "variant": ""}
+{"art": "kodad", "id": "N0625", "kod": "FJ1", "namn": "Huvudkanalisation", "niva": 3, "stil": "Rubrik3", "titel": "FJ1. Huvudkanalisation", "variant": ""}
+{"art": "kodad", "id": "N0626", "kod": "FJ2", "namn": "Objektskanalisation", "niva": 3, "stil": "Rubrik3", "titel": "FJ2. Objektskanalisation", "variant": ""}
+{"art": "kodad", "id": "N0627", "kod": "FJ3", "namn": "Övrigt kanalisationssystem", "niva": 3, "stil": "Rubrik3", "titel": "FJ3. Övrigt kanalisationssystem", "variant": ""}
+{"art": "kodad", "id": "N0628", "kod": "FK", "namn": "Teknikbyggnad, kur, skåp o.d.", "niva": 2, "stil": "Rubrik2", "titel": "FK. Teknikbyggnad, kur, skåp o.d.", "variant": ""}
+{"art": "kodad", "id": "N0629", "kod": "FL", "namn": "Plattform, trappa o.d.", "niva": 2, "stil": "Rubrik2", "titel": "FL. Plattform, trappa o.d.", "variant": ""}
+{"art": "kodad", "id": "N0630", "kod": "FM", "namn": "Passage för fauna e.d.", "niva": 2, "stil": "Rubrik2", "titel": "FM. Passage för fauna e.d.", "variant": ""}
+{"art": "avsnitt", "id": "N0631", "kod": "G", "namn": "BROKONSTRUKTION", "niva": 1, "stil": "Rubrik1", "titel": "G. BROKONSTRUKTION", "variant": ""}
+{"art": "kodad", "id": "N0632", "kod": "G", "namn": "Brokonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "G. Brokonstruktion/ Vägbro// Bro xxx", "variant": "/ Vägbro// Bro xxx"}
+{"art": "kodad", "id": "N0633", "kod": "G", "namn": "Brokonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "G. Brokonstruktion/ Järnvägsbro// Bro xxx", "variant": "/ Järnvägsbro// Bro xxx"}
+{"art": "kodad", "id": "N0634", "kod": "G", "namn": "Brokonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "G. Brokonstruktion/ Gång- och cykelbro// Bro xxx", "variant": "/ Gång- och cykelbro// Bro xxx"}
+{"art": "kodad", "id": "N0635", "kod": "G", "namn": "Brokonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "G. Brokonstruktion/ Faunabro// Bro xxx", "variant": "/ Faunabro// Bro xxx"}
+{"art": "kodad", "id": "N0636", "kod": "GB", "namn": "Överbyggnad", "niva": 2, "stil": "Rubrik2", "titel": "GB. Överbyggnad", "variant": ""}
+{"art": "kodad", "id": "N0637", "kod": "GC", "namn": "Underbyggnad", "niva": 2, "stil": "Rubrik2", "titel": "GC. Underbyggnad", "variant": ""}
+{"art": "kodad", "id": "N0638", "kod": "GD", "namn": "Rör", "niva": 2, "stil": "Rubrik2", "titel": "GD. Rör", "variant": ""}
+{"art": "kodad", "id": "N0639", "kod": "GE", "namn": "Integrerat landfäste", "niva": 2, "stil": "Rubrik2", "titel": "GE. Integrerat landfäste", "variant": ""}
+{"art": "kodad", "id": "N0640", "kod": "GF", "namn": "Undergrund", "niva": 2, "stil": "Rubrik2", "titel": "GF. Undergrund", "variant": ""}
+{"art": "kodad", "id": "N0641", "kod": "GG", "namn": "Beläggning", "niva": 2, "stil": "Rubrik2", "titel": "GG. Beläggning", "variant": ""}
+{"art": "kodad", "id": "N0642", "kod": "GH", "namn": "Lager", "niva": 2, "stil": "Rubrik2", "titel": "GH. Lager", "variant": ""}
+{"art": "kodad", "id": "N0643", "kod": "GJ", "namn": "Övergångskonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "GJ. Övergångskonstruktion", "variant": ""}
+{"art": "kodad", "id": "N0644", "kod": "GK", "namn": "Avvattningssystem", "niva": 2, "stil": "Rubrik2", "titel": "GK. Avvattningssystem", "variant": ""}
+{"art": "kodad", "id": "N0645", "kod": "GL", "namn": "Komplettering", "niva": 2, "stil": "Rubrik2", "titel": "GL. Komplettering", "variant": ""}
+{"art": "kodad", "id": "N0646", "kod": "GM", "namn": "Motfyllning, slänt och kon", "niva": 2, "stil": "Rubrik2", "titel": "GM. Motfyllning, slänt och kon", "variant": ""}
+{"art": "kodad", "id": "N0647", "kod": "GM1", "namn": "Motfyllning", "niva": 3, "stil": "Rubrik3", "titel": "GM1. Motfyllning", "variant": ""}
+{"art": "kodad", "id": "N0648", "kod": "GM2", "namn": "Slänt", "niva": 3, "stil": "Rubrik3", "titel": "GM2. Slänt", "variant": ""}
+{"art": "kodad", "id": "N0649", "kod": "GM3", "namn": "Kon", "niva": 3, "stil": "Rubrik3", "titel": "GM3. Kon", "variant": ""}
+{"art": "kodad", "id": "N0650", "kod": "GN", "namn": "Maskinanordning eller utrymme för öppningsbar bro", "niva": 2, "stil": "Rubrik2", "titel": "GN. Maskinanordning eller utrymme för öppningsbar bro", "variant": ""}
+{"art": "avsnitt", "id": "N0651", "kod": "H", "namn": "TUNNELKONSTRUKTION", "niva": 1, "stil": "Rubrik1", "titel": "H. TUNNELKONSTRUKTION", "variant": ""}
+{"art": "kodad", "id": "N0652", "kod": "H", "namn": "Tunnelkonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "H. Tunnelkonstruktion/ Järnvägstunnel// km x+xxx – y+yyy", "variant": "/ Järnvägstunnel// km x+xxx – y+yyy"}
+{"art": "kodad", "id": "N0653", "kod": "H", "namn": "Tunnelkonstruktion", "niva": 2, "stil": "Rubrik2", "titel": "H. Tunnelkonstruktion/ Vägtunnel// km x/xxx – y/yyy", "variant": "/ Vägtunnel// km x/xxx – y/yyy"}
+{"art": "kodad", "id": "N0654", "kod": "HB", "namn": "Bärande huvudsystem", "niva": 2, "stil": "Rubrik2", "titel": "HB. Bärande huvudsystem", "variant": ""}
+{"art": "kodad", "id": "N0655", "kod": "HB", "namn": "Bärande huvudsystem", "niva": 2, "stil": "Rubrik2", "titel": "HB. Bärande huvudsystem/ Bergtunnel// km x+xxx – y/yyy", "variant": "/ Bergtunnel// km x+xxx – y/yyy"}
+{"art": "kodad", "id": "N0656", "kod": "HB", "namn": "Bärande huvudsystem", "niva": 2, "stil": "Rubrik2", "titel": "HB. Bärande huvudsystem/ Betongtunnel// km x+xxx – y/yyy", "variant": "/ Betongtunnel// km x+xxx – y/yyy"}
+{"art": "kodad", "id": "N0657", "kod": "HB", "namn": "Bärande huvudsystem", "niva": 2, "stil": "Rubrik2", "titel": "HB. Bärande huvudsystem/ Ståltunnel// km x+xxx – y/yyy", "variant": "/ Ståltunnel// km x+xxx – y/yyy"}
+{"art": "kodad", "id": "N0658", "kod": "HB1", "namn": "Tunneltak, tunnelvägg, tunnelbotten", "niva": 2, "stil": "Rubrik2", "titel": "HB1. Tunneltak, tunnelvägg, tunnelbotten", "variant": ""}
+{"art": "kodad", "id": "N0659", "kod": "HB18", "namn": "Komplettering", "niva": 3, "stil": "Rubrik3", "titel": "HB18. Komplettering", "variant": ""}
+{"art": "kodad", "id": "N0660", "kod": "HB18b", "namn": "Inklädnad och isolering", "niva": 3, "stil": "Rubrik3", "titel": "HB18b. Inklädnad och isolering", "variant": ""}
+{"art": "kodad", "id": "N0661", "kod": "HB18b", "namn": "Inklädnad och isolering", "niva": 3, "stil": "Rubrik3", "titel": "HB18b. Inklädnad och isolering/ Sprutbetongskikt", "variant": "/ Sprutbetongskikt"}
+{"art": "kodad", "id": "N0662", "kod": "HB18c", "namn": "Förankring i berg eller jord", "niva": 3, "stil": "Rubrik3", "titel": "HB18c. Förankring i berg eller jord", "variant": ""}
+{"art": "kodad", "id": "N0663", "kod": "HB18d", "namn": "Fyllning", "niva": 3, "stil": "Rubrik3", "titel": "HB18d. Fyllning", "variant": ""}
+{"art": "kodad", "id": "N0664", "kod": "HB4", "namn": "Tjälskydd", "niva": 2, "stil": "Rubrik2", "titel": "HB4. Tjälskydd", "variant": ""}
+{"art": "kodad", "id": "N0665", "kod": "HB7", "namn": "Undergrund", "niva": 2, "stil": "Rubrik2", "titel": "HB7. Undergrund", "variant": ""}
+{"art": "kodad", "id": "N0666", "kod": "HB71", "namn": "Jord", "niva": 3, "stil": "Rubrik3", "titel": "HB71. Jord", "variant": ""}
+{"art": "kodad", "id": "N0667", "kod": "HB72", "namn": "Berg", "niva": 3, "stil": "Rubrik3", "titel": "HB72. Berg", "variant": ""}
+{"art": "kodad", "id": "N0668", "kod": "HB73", "namn": "Påle", "niva": 3, "stil": "Rubrik3", "titel": "HB73. Påle", "variant": ""}
+{"art": "kodad", "id": "N0669", "kod": "HC", "namn": "Inredning", "niva": 2, "stil": "Rubrik2", "titel": "HC. Inredning", "variant": ""}
+{"art": "kodad", "id": "N0670", "kod": "HC", "namn": "Inredning", "niva": 2, "stil": "Rubrik2", "titel": "HC. Inredning// Brandsluss", "variant": "// Brandsluss"}
+{"art": "kodad", "id": "N0671", "kod": "HC1", "namn": "Innervägg", "niva": 2, "stil": "Rubrik2", "titel": "HC1. Innervägg", "variant": ""}
+{"art": "kodad", "id": "N0672", "kod": "HC1", "namn": "Innervägg", "niva": 2, "stil": "Rubrik2", "titel": "HC1. Innervägg/ Av betong", "variant": "/ Av betong"}
+{"art": "kodad", "id": "N0673", "kod": "HC1", "namn": "Innervägg", "niva": 2, "stil": "Rubrik2", "titel": "HC1. Innervägg/ Av stål", "variant": "/ Av stål"}
+{"art": "kodad", "id": "N0674", "kod": "HC3", "namn": "Innergolv", "niva": 2, "stil": "Rubrik2", "titel": "HC3. Innergolv", "variant": ""}
+{"art": "kodad", "id": "N0675", "kod": "HC3", "namn": "Innergolv", "niva": 2, "stil": "Rubrik2", "titel": "HC3. Innergolv// Teknikrum", "variant": "// Teknikrum"}
+{"art": "kodad", "id": "N0676", "kod": "HC3", "namn": "Innergolv", "niva": 2, "stil": "Rubrik2", "titel": "HC3. Innergolv// Installationsgolv", "variant": "// Installationsgolv"}
+{"art": "kodad", "id": "N0677", "kod": "HC5", "namn": "Undertak", "niva": 2, "stil": "Rubrik2", "titel": "HC5. Undertak", "variant": ""}
+{"art": "kodad", "id": "N0678", "kod": "HC7", "namn": "Gångbana", "niva": 2, "stil": "Rubrik2", "titel": "HC7. Gångbana", "variant": ""}
+{"art": "kodad", "id": "N0679", "kod": "HC71", "namn": "Gångbaneräcke", "niva": 2, "stil": "Rubrik2", "titel": "HC71. Gångbaneräcke", "variant": ""}
+{"art": "kodad", "id": "N0680", "kod": "HD", "namn": "Port, dörr, lucka, galler", "niva": 2, "stil": "Rubrik2", "titel": "HD. Port, dörr, lucka, galler", "variant": ""}
+{"art": "kodad", "id": "N0681", "kod": "HD", "namn": "Port, dörr, lucka, galler", "niva": 2, "stil": "Rubrik2", "titel": "HD. Port, dörr, lucka, galler// Brandsluss", "variant": "// Brandsluss"}
+{"art": "kodad", "id": "N0682", "kod": "HE", "namn": "Hiss, trappa, stege", "niva": 2, "stil": "Rubrik2", "titel": "HE. Hiss, trappa, stege", "variant": ""}
+{"art": "kodad", "id": "N0683", "kod": "HF", "namn": "Tunnelportal", "niva": 2, "stil": "Rubrik2", "titel": "HF. Tunnelportal", "variant": ""}
+{"art": "kodad", "id": "N0684", "kod": "HG", "namn": "VA-system", "niva": 2, "stil": "Rubrik2", "titel": "HG. VA-system", "variant": ""}
+{"art": "kodad", "id": "N0685", "kod": "HG1", "namn": "Vattenförsörjningssystem", "niva": 2, "stil": "Rubrik2", "titel": "HG1. Vattenförsörjningssystem", "variant": ""}
+{"art": "kodad", "id": "N0686", "kod": "HG1", "namn": "Vattenförsörjningssystem", "niva": 2, "stil": "Rubrik2", "titel": "HG1. Vattenförsörjningssystem/ Brandvattensystem", "variant": "/ Brandvattensystem"}
+{"art": "kodad", "id": "N0687", "kod": "HG2", "namn": "Dränvattensystem", "niva": 2, "stil": "Rubrik2", "titel": "HG2. Dränvattensystem", "variant": ""}
+{"art": "kodad", "id": "N0688", "kod": "HG3", "namn": "Avloppsvattensystem", "niva": 2, "stil": "Rubrik2", "titel": "HG3. Avloppsvattensystem", "variant": ""}
+{"art": "kodad", "id": "N0689", "kod": "HH", "namn": "Ventilation", "niva": 2, "stil": "Rubrik2", "titel": "HH. Ventilation", "variant": ""}
+{"art": "kodad", "id": "N0690", "kod": "HJ", "namn": "El", "niva": 2, "stil": "Rubrik2", "titel": "HJ. El", "variant": ""}
+{"art": "kodad", "id": "N0691", "kod": "HJ3", "namn": "Belysning", "niva": 3, "stil": "Rubrik3", "titel": "HJ3. Belysning", "variant": ""}
+{"art": "kodad", "id": "N0692", "kod": "HK", "namn": "Komplettering", "niva": 2, "stil": "Rubrik2", "titel": "HK. Komplettering", "variant": ""}
+{"art": "kodad", "id": "N0693", "kod": "HL", "namn": "Beläggning", "niva": 2, "stil": "Rubrik2", "titel": "HL. Beläggning", "variant": ""}
+{"art": "kodad", "id": "N0694", "kod": "HL1", "namn": "Direktgjuten slitbetong", "niva": 2, "stil": "Rubrik2", "titel": "HL1. Direktgjuten slitbetong", "variant": ""}
+{"art": "kodad", "id": "N0695", "kod": "HL2", "namn": "Tätskikt", "niva": 2, "stil": "Rubrik2", "titel": "HL2. Tätskikt", "variant": ""}
+{"art": "kodad", "id": "N0696", "kod": "HL3", "namn": "Skyddslager", "niva": 2, "stil": "Rubrik2", "titel": "HL3. Skyddslager", "variant": ""}
+{"art": "avsnitt", "id": "N0697", "kod": "I", "namn": "TRÅG", "niva": 1, "stil": "Rubrik1", "titel": "I. TRÅG", "variant": ""}
+{"art": "avsnitt", "id": "N0698", "kod": "M", "namn": "HUS", "niva": 1, "stil": "Rubrik1", "titel": "M. HUS", "variant": ""}
+{"art": "avsnitt", "id": "N0699", "kod": "N", "namn": "VA-NÄT", "niva": 1, "stil": "Rubrik1", "titel": "N. VA-NÄT", "variant": ""}
+{"art": "avsnitt", "id": "N0700", "kod": "V", "namn": "EXTERN KONSTRUKTION", "niva": 1, "stil": "Rubrik1", "titel": "V. EXTERN KONSTRUKTION", "variant": ""}
+{"art": "kodad", "id": "N0701", "kod": "V", "namn": "Extern konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "V. Extern konstruktion/ Fjärrvärmenät", "variant": "/ Fjärrvärmenät"}
+{"art": "kodad", "id": "N0702", "kod": "V", "namn": "Extern konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "V. Extern konstruktion/ VA-nät", "variant": "/ VA-nät"}
+{"art": "kodad", "id": "N0703", "kod": "V", "namn": "Extern konstruktion", "niva": 2, "stil": "Rubrik2", "titel": "V. Extern konstruktion/ Våtmark", "variant": "/ Våtmark"}
+{"art": "avsnitt", "id": "N0704", "kod": "X", "namn": "DOKUMENTATION", "niva": 1, "stil": "Rubrik1", "titel": "X. DOKUMENTATION", "variant": ""}
+{"art": "kodad", "id": "N0705", "kod": "X", "namn": "Dokumentation", "niva": 2, "stil": "Rubrik2", "titel": "X. Dokumentation/ BIM - Byggnadsinformationsmodell", "variant": "/ BIM - Byggnadsinformationsmodell"}
+{"art": "rubrik", "id": "N0706", "kod": "", "namn": "Modelluppbyggnad", "niva": 4, "stil": "Rubrik4", "titel": "Modelluppbyggnad", "variant": ""}
+{"art": "rubrik", "id": "N0707", "kod": "", "namn": "Uppföljning", "niva": 4, "stil": "Rubrik4", "titel": "Uppföljning", "variant": ""}
+{"art": "kodad", "id": "N0708", "kod": "X", "namn": "Dokumentation", "niva": 2, "stil": "Rubrik2", "titel": "X. Dokumentation/ Digital projekthantering", "variant": "/ Digital projekthantering"}
+{"art": "kodad", "id": "N0709", "kod": "X", "namn": "Dokumentation", "niva": 2, "stil": "Rubrik2", "titel": "X. Dokumentation/ Godkännandeprocess", "variant": "/ Godkännandeprocess"}
+{"art": "kodad", "id": "N0710", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning", "variant": ""}
+{"art": "kodad", "id": "N0711", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Avvattning", "variant": "/ Avvattning"}
+{"art": "kodad", "id": "N0712", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Belysningssystem, väg", "variant": "/ Belysningssystem, väg"}
+{"art": "kodad", "id": "N0713", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ BIM – Byggnadsinformationsmodell", "variant": "/ BIM – Byggnadsinformationsmodell"}
+{"art": "kodad", "id": "N0714", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Elteknik, järnväg", "variant": "/ Elteknik, järnväg"}
+{"art": "kodad", "id": "N0715", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Geodetisk mätningsteknik", "variant": "/ Geodetisk mätningsteknik"}
+{"art": "kodad", "id": "N0716", "kod": "XB", "namn": "Projekteringsbeskr ivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskr ivning/ Geoteknik", "variant": "/ Geoteknik"}
+{"art": "kodad", "id": "N0717", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Kraftförsörjningsanläggning Järnväg", "variant": "/ Kraftförsörjningsanläggning Järnväg"}
+{"art": "kodad", "id": "N0718", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Kabelkanalisation, järnväg", "variant": "/ Kabelkanalisation, järnväg"}
+{"art": "kodad", "id": "N0719", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Komponent-ID", "variant": "/ Komponent-ID"}
+{"art": "kodad", "id": "N0720", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Landskap och gestaltning", "variant": "/ Landskap och gestaltning"}
+{"art": "kodad", "id": "N0721", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Miljö", "variant": "/ Miljö"}
+{"art": "kodad", "id": "N0722", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Signal, järnväg", "variant": "/ Signal, järnväg"}
+{"art": "kodad", "id": "N0723", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Telesystem", "variant": "/ Telesystem"}
+{"art": "kodad", "id": "N0724", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Vägkonstruktion", "variant": "/ Vägkonstruktion"}
+{"art": "kodad", "id": "N0725", "kod": "XB", "namn": "Projekteringsbeskrivning", "niva": 2, "stil": "Rubrik2", "titel": "XB. Projekteringsbeskrivning/ Vägutformning", "variant": "/ Vägutformning"}
+{"art": "kodad", "id": "N0726", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling", "variant": ""}
+{"art": "kodad", "id": "N0727", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Avvattning", "variant": "/ Avvattning"}
+{"art": "kodad", "id": "N0728", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Banöverbyggnad", "variant": "/ Banöverbyggnad"}
+{"art": "kodad", "id": "N0729", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Belysningssystem, väg", "variant": "/ Belysningssystem, väg"}
+{"art": "kodad", "id": "N0730", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Bergteknik", "variant": "/ Bergteknik"}
+{"art": "kodad", "id": "N0731", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Elteknik, järnväg", "variant": "/ Elteknik, järnväg"}
+{"art": "rubrik", "id": "N0732", "kod": "", "namn": "Lågspänning", "niva": 4, "stil": "Rubrik4", "titel": "Lågspänning", "variant": ""}
+{"art": "rubrik", "id": "N0733", "kod": "", "namn": "Högspänning.", "niva": 4, "stil": "Rubrik4", "titel": "Högspänning.", "variant": ""}
+{"art": "kodad", "id": "N0734", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Geodetisk mätningsteknik", "variant": "/ Geodetisk mätningsteknik"}
+{"art": "kodad", "id": "N0735", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Geoteknik", "variant": "/ Geoteknik"}
+{"art": "kodad", "id": "N0736", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Kraftförsörjningsanläggning Järnväg", "variant": "/ Kraftförsörjningsanläggning Järnväg"}
+{"art": "kodad", "id": "N0737", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Kabelkanalisation, väg", "variant": "/ Kabelkanalisation, väg"}
+{"art": "kodad", "id": "N0738", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Kabelkanalisation, järnväg", "variant": "/ Kabelkanalisation, järnväg"}
+{"art": "kodad", "id": "N0739", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Komponent-ID, väg", "variant": "/ Komponent-ID, väg"}
+{"art": "kodad", "id": "N0740", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Landskap och gestaltning", "variant": "/ Landskap och gestaltning"}
+{"art": "kodad", "id": "N0741", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Miljö", "variant": "/ Miljö"}
+{"art": "kodad", "id": "N0742", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Signal, järnväg", "variant": "/ Signal, järnväg"}
+{"art": "kodad", "id": "N0743", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Telesystem", "variant": "/ Telesystem"}
+{"art": "kodad", "id": "N0744", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Vägkonstruktion", "variant": "/ Vägkonstruktion"}
+{"art": "kodad", "id": "N0745", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Vägtrafiksignalsystem", "variant": "/ Vägtrafiksignalsystem"}
+{"art": "kodad", "id": "N0746", "kod": "XC", "namn": "Bygghandling", "niva": 2, "stil": "Rubrik2", "titel": "XC. Bygghandling/ Vägutformning", "variant": "/ Vägutformning"}
+{"art": "kodad", "id": "N0747", "kod": "XD", "namn": "Slutdokumentation", "niva": 2, "stil": "Rubrik2", "titel": "XD. Slutdokumentation", "variant": ""}
+{"art": "kodad", "id": "N0748", "kod": "XD1", "namn": "BIM - Byggnadsinformationsmodell", "niva": 3, "stil": "Rubrik3", "titel": "XD1. BIM - Byggnadsinformationsmodell", "variant": ""}
+{"art": "kodad", "id": "N0749", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling", "variant": ""}
+{"art": "rubrik", "id": "N0750", "kod": "", "namn": "Digital projekthantering", "niva": 4, "stil": "Rubrik4", "titel": "Digital projekthantering", "variant": ""}
+{"art": "kodad", "id": "N0751", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Järnvägsanläggning", "variant": "/ Järnvägsanläggning"}
+{"art": "rubrik", "id": "N0752", "kod": "", "namn": "Digital projekthantering", "niva": 4, "stil": "Rubrik4", "titel": "Digital projekthantering", "variant": ""}
+{"art": "kodad", "id": "N0753", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Väganläggning", "variant": "/ Väganläggning"}
+{"art": "rubrik", "id": "N0754", "kod": "", "namn": "Digital projekthantering", "niva": 4, "stil": "Rubrik4", "titel": "Digital projekthantering", "variant": ""}
+{"art": "kodad", "id": "N0755", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Avvattning", "variant": "/ Avvattning"}
+{"art": "kodad", "id": "N0756", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Belysningssystem, väg", "variant": "/ Belysningssystem, väg"}
+{"art": "kodad", "id": "N0757", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Elteknik, järnväg", "variant": "/ Elteknik, järnväg"}
+{"art": "kodad", "id": "N0758", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Berg", "variant": "/ Berg"}
+{"art": "kodad", "id": "N0759", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Bro", "variant": "/ Bro"}
+{"art": "kodad", "id": "N0760", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Geodetisk mätningsteknik", "variant": "/ Geodetisk mätningsteknik"}
+{"art": "kodad", "id": "N0761", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Geoteknik", "variant": "/ Geoteknik"}
+{"art": "kodad", "id": "N0762", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Kraftförsörjningsanläggning Järnväg", "variant": "/ Kraftförsörjningsanläggning Järnväg"}
+{"art": "kodad", "id": "N0763", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Landskap och gestaltning", "variant": "/ Landskap och gestaltning"}
+{"art": "kodad", "id": "N0764", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Miljö", "variant": "/ Miljö"}
+{"art": "kodad", "id": "N0765", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Tunnelkonstruktion", "variant": "/ Tunnelkonstruktion"}
+{"art": "kodad", "id": "N0766", "kod": "XD2", "namn": "Relationshandling", "niva": 3, "stil": "Rubrik3", "titel": "XD2. Relationshandling/ Vägutformning", "variant": "/ Vägutformning"}
+{"art": "kodad", "id": "N0767", "kod": "XD3", "namn": "Förvaltningsdata", "niva": 3, "stil": "Rubrik3", "titel": "XD3. Förvaltningsdata", "variant": ""}
+{"art": "kodad", "id": "N0768", "kod": "XD3", "namn": "Förvaltningsdata", "niva": 3, "stil": "Rubrik3", "titel": "XD3. Förvaltningsdata/ Järnväg", "variant": "/ Järnväg"}
+{"art": "kodad", "id": "N0769", "kod": "XD3", "namn": "Förvaltningsdata", "niva": 3, "stil": "Rubrik3", "titel": "XD3. Förvaltningsdata/ Järnväg/ Kraftförsörjningsanläggning Järnväg", "variant": "/ Järnväg/ Kraftförsörjningsanläggning Järnväg"}
+{"art": "kodad", "id": "N0770", "kod": "XD3", "namn": "Förvaltningsdata", "niva": 3, "stil": "Rubrik3", "titel": "XD3. Förvaltningsdata/ Väg", "variant": "/ Väg"}
+{"art": "kodad", "id": "N0771", "kod": "XD3", "namn": "Förvaltningsdata", "niva": 3, "stil": "Rubrik3", "titel": "XD3. Förvaltningsdata/ Belysningssystem, väg", "variant": "/ Belysningssystem, väg"}
+{"art": "kodad", "id": "N0772", "kod": "XD3", "namn": "Förvaltningsdata", "niva": 3, "stil": "Rubrik3", "titel": "XD3. Förvaltningsdata/ Komponent-ID, väg", "variant": "/ Komponent-ID, väg"}
+{"art": "kodad", "id": "N0773", "kod": "XD4", "namn": "Drift- och underhållsplan", "niva": 3, "stil": "Rubrik3", "titel": "XD4. Drift- och underhållsplan", "variant": ""}
+{"art": "kodad", "id": "N0774", "kod": "XD4", "namn": "Drift- och underhållsplan", "niva": 3, "stil": "Rubrik3", "titel": "XD4. Drift- och underhållsplan/ Avvattning", "variant": "/ Avvattning"}
+{"art": "kodad", "id": "N0775", "kod": "XD4", "namn": "Drift- och underhållsplan", "niva": 3, "stil": "Rubrik3", "titel": "XD4. Drift- och underhållsplan/ Belysningssystem, väg", "variant": "/ Belysningssystem, väg"}
+{"art": "kodad", "id": "N0776", "kod": "XD4", "namn": "Drift- och underhållsplan", "niva": 3, "stil": "Rubrik3", "titel": "XD4. Drift- och underhållsplan/ Landskap och gestaltning", "variant": "/ Landskap och gestaltning"}
+{"art": "avsnitt", "id": "N0777", "kod": "", "namn": "Förteckning över åberopade kravdokument.", "niva": 1, "stil": "Rubrik1", "titel": "Förteckning över åberopade kravdokument.", "variant": ""}
+{"art": "rubrik", "id": "N0778", "kod": "", "namn": "Lista A. Gemensamma krav, X. Dokumentation och gemensamma kravdokument.", "niva": 2, "stil": "Rubrik2", "titel": "Lista A. Gemensamma krav, X. Dokumentation och gemensamma kravdokument.", "variant": ""}
+{"art": "rubrik", "id": "N0779", "kod": "", "namn": "Lista D. Väg", "niva": 2, "stil": "Rubrik2", "titel": "Lista D. Väg", "variant": ""}
+{"art": "rubrik", "id": "N0780", "kod": "", "namn": "Lista DH. System för trafikledning och anläggningsövervakning", "niva": 2, "stil": "Rubrik2", "titel": "Lista DH. System för trafikledning och anläggningsövervakning", "variant": ""}
+{"art": "rubrik", "id": "N0781", "kod": "", "namn": "Lista F. Järnväg", "niva": 2, "stil": "Rubrik2", "titel": "Lista F. Järnväg", "variant": ""}

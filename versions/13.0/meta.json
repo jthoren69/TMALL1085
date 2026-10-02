@@ -1,0 +1,34 @@
+{
+  "antal": {
+    "block": 6358,
+    "blocktyper": {
+      "blandad": 15,
+      "fast": 1906,
+      "okodad_rubrik": 1115,
+      "rad": 2207,
+      "tabell": 39,
+      "valbar": 1076
+    },
+    "noder": 781
+  },
+  "baserad_pa": null,
+  "datum": "2026-03-16",
+  "extraherad_med": "tmall 0.1.0",
+  "kalla": "TMALL1085_v13.0_2026-03-16.dotm",
+  "kalla_sha256": "b5cfd05edb5ea7691803d79ba1790668dc8690324456ac875e38462f481a285d",
+  "kodtrad": {
+    "avsnitt": 0,
+    "dokument": 63,
+    "prefix": 410,
+    "variant": 308
+  },
+  "kommentar": "Baslinje: gällande version",
+  "mall": "TMALL 1085",
+  "matchning": null,
+  "titel": "Mall för Teknisk beskrivning TB för TE",
+  "tradar": [
+    "dokument",
+    "kod"
+  ],
+  "version": "13.0"
+}
