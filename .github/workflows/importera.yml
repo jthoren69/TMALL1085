@@ -1,0 +1,42 @@
+name: Importera version
+on:
+  workflow_dispatch:
+    inputs:
+      dokument:
+        description: "Sökväg till Word-filen i repot, t.ex. source/TMALL1085_v14.0.dotm"
+        required: true
+      version:
+        description: "Versionsnamn, t.ex. 14.0"
+        required: true
+      datum:
+        description: "Datum (ÅÅÅÅ-MM-DD)"
+        default: ""
+      bas:
+        description: "Mapp för versionen filen härstammar från, t.ex. versions/13.0"
+        required: true
+permissions:
+  contents: write
+jobs:
+  importera:
+    runs-on: ubuntu-latest
+    env:
+      DOKUMENT: ${{ inputs.dokument }}
+      VERSION: ${{ inputs.version }}
+      DATUM: ${{ inputs.datum }}
+      BAS: ${{ inputs.bas }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Importera
+        run: python -m tmall importera "$DOKUMENT" --version "$VERSION" --datum "$DATUM" --bas "$BAS"
+      - name: Kontrollera
+        run: python -m tmall kontrollera "versions/$VERSION"
+      - name: Checka in
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add versions ids.json
+          git commit -m "Importera version $VERSION"
+          git push
