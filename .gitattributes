@@ -1,0 +1,10 @@
+# Data och kod ska alltid ha LF så att diffar blir rena på alla plattformar.
+*.jsonl text eol=lf
+*.json  text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
+# Källdokument är binära.
+*.docx binary
+*.dotm binary
+*.dotx binary
